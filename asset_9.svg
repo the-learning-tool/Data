@@ -1,0 +1,114 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" aria-describedby="desc">
+  <title id="title">Bar Magnet with Magnetic Field Lines</title>
+  <desc id="desc">A scientifically accurate diagram of a bar magnet, matching the conventional external field representation. The red left side is the North pole (N), and the blue right side is the South pole (S). Black lines with arrows show the magnetic field flowing away from the North pole and into the South pole.</desc>
+
+  <style>
+    /* General canvas style */
+    .canvas-background {
+      fill: #1a1a2e; /* Dark navy blue background */
+    }
+
+    /* Magnet styles */
+    .magnet-pole-north {
+      fill: #ff4757; /* Vibrant red */
+      stroke: #ffffff;
+      stroke-width: 1;
+    }
+    .magnet-pole-south {
+      fill: #3742fa; /* Deep blue */
+      stroke: #ffffff;
+      stroke-width: 1;
+    }
+    .magnet-label {
+      font-family: sans-serif;
+      font-size: 28px;
+      font-weight: bold;
+      fill: #ffffff;
+      text-anchor: middle;
+      dominant-baseline: middle;
+      pointer-events: none; /* Ignore clicks on text */
+    }
+
+    /* Field line styles */
+    .field-line {
+      fill: none;
+      stroke: #ffffff;
+      stroke-width: 2.5px; /* Slightly thicker for clarity */
+      stroke-linecap: round;
+      marker-mid: url(#marker-arrow); /* Place arrow in the middle of the path */
+    }
+    
+    .field-line-straight {
+      fill: none;
+      stroke: #ffffff;
+      stroke-width: 2.5px;
+      marker-end: url(#marker-arrow); /* Arrow at the end for straight lines */
+    }
+  </style>
+
+  <defs>
+    <!-- Filter for a subtle drop shadow to give the magnet depth -->
+    <filter id="filter-shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="3" dy="5" stdDeviation="5" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+
+    <!-- Filter for a subtle glow effect on the field lines -->
+    <filter id="filter-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Arrow marker for indicating field direction. Adjusted for mid-path placement. -->
+    <marker
+      id="marker-arrow"
+      viewBox="0 0 10 10"
+      refX="5"
+      refY="5"
+      markerWidth="8"
+      markerHeight="8"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#ffffff" />
+    </marker>
+  </defs>
+
+  <!-- Background Rectangle -->
+  <rect width="100%" height="100%" class="canvas-background"/>
+
+  <!-- ===== MAGNETIC FIELD LINES (Corrected) ===== -->
+  <g id="group_field_lines" filter="url(#filter-glow)">
+    
+    <!-- Central horizontal lines (External) -->
+    <!-- Line extending OUT from North Pole -->
+    <path id="line_ext_straight_N" class="field-line-straight" d="M 300 300 L 0 300" pathLength="1"/>
+    <!-- Line extending IN to South Pole -->
+    <path id="line_ext_straight_S" class="field-line-straight" d="M 800 300 L 500 300" pathLength="1"/>
+
+    <!-- Upper field lines (N to S) -->
+    <path id="line_ext_up_1" class="field-line" d="M 350 270 C 350 210, 450 210, 450 270" pathLength="1"/>
+    <path id="line_ext_up_2" class="field-line" d="M 325 270 C 300 150, 500 150, 475 270" pathLength="1"/>
+    <path id="line_ext_up_3" class="field-line" d="M 300 280 C 250 80, 550 80, 500 280" pathLength="1"/>
+    <path id="line_ext_up_4" class="field-line" d="M 300 295 C 150 20, 650 20, 500 295" pathLength="1"/>
+
+    <!-- Lower field lines (mirror of upper, N to S) -->
+    <path id="line_ext_low_1" class="field-line" d="M 350 330 C 350 390, 450 390, 450 330" pathLength="1"/>
+    <path id="line_ext_low_2" class="field-line" d="M 325 330 C 300 450, 500 450, 475 330" pathLength="1"/>
+    <path id="line_ext_low_3" class="field-line" d="M 300 320 C 250 520, 550 520, 500 320" pathLength="1"/>
+    <path id="line_ext_low_4" class="field-line" d="M 300 305 C 150 580, 650 580, 500 305" pathLength="1"/>
+    
+  </g>
+
+  <!-- ===== MAGNET STRUCTURE ===== -->
+  <g id="group_magnet_labeled" filter="url(#filter-shadow)">
+    <!-- Magnet Body -->
+    <rect id="rect_north" x="300" y="270" width="100" height="60" class="magnet-pole-north"/>
+    <rect id="rect_south" x="400" y="270" width="100" height="60" class="magnet-pole-south"/>
+
+    <!-- Magnet Labels -->
+    <text id="text_N" x="350" y="300" class="magnet-label">N</text>
+    <text id="text_S" x="450" y="300" class="magnet-label">S</text>
+  </g>
+
+</svg>
