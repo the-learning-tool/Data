@@ -1,0 +1,41 @@
+<svg width="400" height="220" viewBox="0 0 400 220" xmlns="http://www.w3.org/2000/svg">
+  <title>Animation of a Magnetic Field Line</title>
+  <desc>
+    An arrowhead traces the path of a magnetic field line,
+    moving from the North pole to the South pole of a bar magnet.
+    The path is positioned above the magnet to prevent overlap.
+  </desc>
+
+  <defs>
+    <!-- 1. The arrowhead that will travel along the path. -->
+    <path id="arrowhead" d="M 9 0 L 0 4 L 0 -4 Z" fill="#FFD700" />
+
+    <!-- 2. The invisible path for the animation (the magnetic field line).
+         The Y-coordinate is now 136, raised from the magnet's top edge (y=140)
+         to ensure the arrowhead base (4 units) has clearance. -->
+    <path id="fieldLinePath" d="M 295 136 A 100 80 0 0 1 105 136" fill="none" />
+  </defs>
+
+  <!-- 3. The static bar magnet. All coordinates are now absolute. -->
+  <g id="barMagnet">
+    <!-- The magnet's top edge is at y=140 -->
+    <rect x="100" y="140" width="200" height="40" rx="4" ry="4" fill="#C0392B" />
+    <line x1="200" y1="140" x2="200" y2="180" stroke="white" stroke-width="1.5" />
+    <text x="150" y="168" font-family="sans-serif" font-weight="bold" font-size="22" fill="white" text-anchor="middle">S</text>
+    <text x="250" y="168" font-family="sans-serif" font-weight="bold" font-size="22" fill="white" text-anchor="middle">N</text>
+  </g>
+
+  <!-- 4. A visible, dashed line to show the arrowhead's trajectory -->
+  <use href="#fieldLinePath" stroke="#007BFF" stroke-width="2" stroke-dasharray="6 4" />
+
+  <!-- 5. The animated arrowhead instance -->
+  <use href="#arrowhead">
+    <animateMotion
+      dur="4s"
+      begin="0s"
+      repeatCount="indefinite"
+      rotate="auto">
+      <mpath href="#fieldLinePath" />
+    </animateMotion>
+  </use>
+</svg>

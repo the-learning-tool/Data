@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" style="background-color: #1a1a2e;">
+
+  <title>Non-Intersecting Magnetic Field Lines</title>
+  <desc>
+    An illustration demonstrating that magnetic field lines approach each other
+    but bend away, never intersecting. This visualizes the principle of
+    magnetic field line repulsion.
+  </desc>
+
+  <!-- Definitions for reusable elements like filters and markers -->
+  <defs>
+    <!-- Glow Filter for a luminous, ethereal effect -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Arrowhead Marker to indicate field direction -->
+    <marker
+      id="arrowhead"
+      viewBox="0 0 10 10"
+      refX="8"
+      refY="5"
+      markerWidth="8"
+      markerHeight="8"
+      orient="auto-start-reverse"
+      fill="#FFFFFF"
+      opacity="0.9">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+  </defs>
+
+  <!-- Optional Enhancement: Faint central axis line -->
+  <line
+    x1="400" y1="50"
+    x2="400" y2="550"
+    stroke="#87CEEB"
+    stroke-width="1"
+    stroke-dasharray="5,5"
+    opacity="0.2"
+  />
+
+  <!-- Main Path Elements for the Magnetic Field Lines -->
+  <!-- The paths are styled using a class for consistency and maintainability -->
+  <style>
+    .field-line {
+      fill: none;
+      stroke: #FFFFFF;
+      stroke-width: 4px;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      opacity: 0.9;
+      filter: url(#glow); /* Apply the glow effect */
+      marker-end: url(#arrowhead); /* Add arrowhead at the end of the path */
+    }
+  </style>
+
+  <!-- Path 1: Upper field line -->
+  <path
+    id="path_line_1"
+    class="field-line"
+    d="M 150 200      
+       C 300 200, 350 300, 400 285 
+       C 450 270, 550 150, 650 150"
+  />
+
+  <!-- Path 2: Lower field line (mathematical mirror of Path 1) -->
+  <path
+    id="path_line_2"
+    class="field-line"
+    d="M 150 400
+       C 300 400, 350 300, 400 315
+       C 450 330, 550 450, 650 450"
+  />
+</svg>
