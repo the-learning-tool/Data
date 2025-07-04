@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <title>2D Bar Magnet with Labels</title>
+  <desc>A clean, 2D flat design illustration of a bar magnet with color-coded and labeled poles (Red 'N' for North, Blue 'S' for South).</desc>
+
+  <!-- Parent group for the entire magnet illustration -->
+  <g id="group_magnet_labeled">
+  
+    <!-- North Pole (Left Half) - Red -->
+    <rect 
+      id="path_north_half"
+      x="0" 
+      y="0" 
+      width="100" 
+      height="60" 
+      fill="#DC2626" 
+      stroke="none"
+    />
+    
+    <!-- South Pole (Right Half) - Blue -->
+    <rect 
+      id="path_south_half"
+      x="100" 
+      y="0" 
+      width="100" 
+      height="60" 
+      fill="#3B82F6"
+      stroke="none"
+    />
+    
+    <!-- Labels (N and S) -->
+    <g id="group_magnet_labels" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="bold" fill="#FFFFFF" text-anchor="middle" dominant-baseline="central" stroke="none">
+      <!-- North Label -->
+      <text id="label_N" x="50" y="30">N</text>
+      <!-- South Label -->
+      <text id="label_S" x="150" y="30">S</text>
+    </g>
+    
+  </g>
+</svg>
