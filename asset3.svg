@@ -1,0 +1,113 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" font-family="Arial, Helvetica, sans-serif">
+  <title>Animated Bar Magnet with Magnetic Field</title>
+  <desc>An animated diagram illustrating the magnetic field of a bar magnet. The animation first draws the field lines sequentially from the North to the South pole. The lines emanate cleanly from the magnet's surface. Arrowheads then appear to show the direction of the field. The poles pulse gently to draw attention.</desc>
+
+  <defs>
+    <!-- Reusable arrowhead shape for indicating field direction -->
+    <polygon id="arrow" points="0,-4 8,0 0,4" fill="#000000">
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze"/>
+    </polygon>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="#FFFFFF"/>
+
+  <!-- Bar Magnet (with sharp corners as per source image) -->
+  <g id="magnet-group">
+    <rect id="magnet" x="260" y="260" width="280" height="80" fill="#D82928"/>
+    <g transform="translate(330, 300)">
+      <text id="pole-S" text-anchor="middle" dominant-baseline="middle" font-size="48" font-weight="bold" fill="#FFFFFF">S
+        <animateTransform attributeName="transform" type="scale" values="1; 1.05; 1" keyTimes="0; 0.5; 1" dur="5s" repeatCount="indefinite" additive="sum"/>
+      </text>
+    </g>
+    <g transform="translate(470, 300)">
+      <text id="pole-N" text-anchor="middle" dominant-baseline="middle" font-size="48" font-weight="bold" fill="#FFFFFF">N
+        <animateTransform attributeName="transform" type="scale" values="1; 1.05; 1" keyTimes="0; 0.5; 1" dur="5s" repeatCount="indefinite" additive="sum"/>
+      </text>
+    </g>
+  </g>
+
+  <!-- Magnetic Field Lines (Animated with corrected paths for clean exit from magnet) -->
+  <g id="field-lines-group" fill="none" stroke="#00AEEF" stroke-width="2.5" stroke-linecap="round">
+    
+    <!-- === Closed Loops === -->
+    <!-- Innermost Loop (Top) -->
+    <path id="loop-top-1" d="M 540,300 C 580,230 220,230 260,300" pathLength="355" stroke-dasharray="355" stroke-dashoffset="355">
+      <animate id="draw_lt1" attributeName="stroke-dashoffset" from="355" to="0" dur="1.5s" begin="0s" fill="freeze"/>
+    </path>
+    <!-- Innermost Loop (Bottom) -->
+    <path id="loop-bottom-1" d="M 540,300 C 580,370 220,370 260,300" pathLength="355" stroke-dasharray="355" stroke-dashoffset="355">
+      <animate id="draw_lb1" attributeName="stroke-dashoffset" from="355" to="0" dur="1.5s" begin="0s" fill="freeze"/>
+    </path>
+    
+    <!-- Second Loop (Top) -->
+    <path id="loop-top-2" d="M 540,300 C 590,180 210,180 260,300" pathLength="460" stroke-dasharray="460" stroke-dashoffset="460">
+      <animate id="draw_lt2" attributeName="stroke-dashoffset" from="460" to="0" dur="1.5s" begin="0.5s" fill="freeze"/>
+    </path>
+    <!-- Second Loop (Bottom) -->
+    <path id="loop-bottom-2" d="M 540,300 C 590,420 210,420 260,300" pathLength="460" stroke-dasharray="460" stroke-dashoffset="460">
+      <animate id="draw_lb2" attributeName="stroke-dashoffset" from="460" to="0" dur="1.5s" begin="0.5s" fill="freeze"/>
+    </path>
+
+    <!-- Third Loop (Top) -->
+    <path id="loop-top-3" d="M 540,300 C 600,130 200,130 260,300" pathLength="580" stroke-dasharray="580" stroke-dashoffset="580">
+      <animate id="draw_lt3" attributeName="stroke-dashoffset" from="580" to="0" dur="1.5s" begin="1s" fill="freeze"/>
+    </path>
+    <!-- Third Loop (Bottom) -->
+    <path id="loop-bottom-3" d="M 540,300 C 600,470 200,470 260,300" pathLength="580" stroke-dasharray="580" stroke-dashoffset="580">
+      <animate id="draw_lb3" attributeName="stroke-dashoffset" from="580" to="0" dur="1.5s" begin="1s" fill="freeze"/>
+    </path>
+
+    <!-- Outermost Loop (Top) -->
+    <path id="loop-top-4" d="M 540,300 C 610,80 190,80 260,300" pathLength="700" stroke-dasharray="700" stroke-dashoffset="700">
+      <animate id="draw_lt4" attributeName="stroke-dashoffset" from="700" to="0" dur="1.5s" begin="1.5s" fill="freeze"/>
+    </path>
+    <!-- Outermost Loop (Bottom) -->
+    <path id="loop-bottom-4" d="M 540,300 C 610,520 190,520 260,300" pathLength="700" stroke-dasharray="700" stroke-dashoffset="700">
+      <animate id="draw_lb4" attributeName="stroke-dashoffset" from="700" to="0" dur="1.5s" begin="1.5s" fill="freeze"/>
+    </path>
+
+    <!-- === Radial Lines === -->
+    <path d="M 540,300 C 650,300 750,300 850,300" pathLength="310" stroke-dasharray="310" stroke-dashoffset="310"><animate id="draw_rN1" attributeName="stroke-dashoffset" from="310" to="0" dur="1s" begin="2s" fill="freeze"/></path>
+    <path d="M 540,300 C 650,250 750,220 850,200" pathLength="350" stroke-dasharray="350" stroke-dashoffset="350"><animate id="draw_rN2" attributeName="stroke-dashoffset" from="350" to="0" dur="1s" begin="2.2s" fill="freeze"/></path>
+    <path d="M 540,300 C 650,350 750,380 850,400" pathLength="350" stroke-dasharray="350" stroke-dashoffset="350"><animate id="draw_rN3" attributeName="stroke-dashoffset" from="350" to="0" dur="1s" begin="2.2s" fill="freeze"/></path>
+    <path d="M 540,300 C 650,180 750,120 850,80" pathLength="430" stroke-dasharray="430" stroke-dashoffset="430"><animate id="draw_rN4" attributeName="stroke-dashoffset" from="430" to="0" dur="1s" begin="2.4s" fill="freeze"/></path>
+    <path d="M 540,300 C 650,420 750,480 850,520" pathLength="430" stroke-dasharray="430" stroke-dashoffset="430"><animate id="draw_rN5" attributeName="stroke-dashoffset" from="430" to="0" dur="1s" begin="2.4s" fill="freeze"/></path>
+    <path d="M 260,300 C 150,300 50,300 -50,300" pathLength="310" stroke-dasharray="310" stroke-dashoffset="310"><animate id="draw_rS1" attributeName="stroke-dashoffset" from="310" to="0" dur="1s" begin="2s" fill="freeze"/></path>
+    <path d="M 260,300 C 150,250 50,220 -50,200" pathLength="350" stroke-dasharray="350" stroke-dashoffset="350"><animate id="draw_rS2" attributeName="stroke-dashoffset" from="350" to="0" dur="1s" begin="2.2s" fill="freeze"/></path>
+    <path d="M 260,300 C 150,350 50,380 -50,400" pathLength="350" stroke-dasharray="350" stroke-dashoffset="350"><animate id="draw_rS3" attributeName="stroke-dashoffset" from="350" to="0" dur="1s" begin="2.2s" fill="freeze"/></path>
+    <path d="M 260,300 C 150,180 50,120 -50,80" pathLength="430" stroke-dasharray="430" stroke-dashoffset="430"><animate id="draw_rS4" attributeName="stroke-dashoffset" from="430" to="0" dur="1s" begin="2.4s" fill="freeze"/></path>
+    <path d="M 260,300 C 150,420 50,480 -50,520" pathLength="430" stroke-dasharray="430" stroke-dashoffset="430"><animate id="draw_rS5" attributeName="stroke-dashoffset" from="430" to="0" dur="1s" begin="2.4s" fill="freeze"/></path>
+  </g>
+  
+  <!-- Arrowheads (positions adjusted for new paths) -->
+  <g id="arrowheads-group">
+    <!-- Loop Arrows -->
+    <use href="#arrow" transform="translate(400, 248) rotate(-90)"><animate attributeName="begin" begin="draw_lt1.end"/> </use>
+    <use href="#arrow" transform="translate(400, 352) rotate(90)"><animate attributeName="begin" begin="draw_lb1.end"/> </use>
+    <use href="#arrow" transform="translate(320, 185) rotate(-145)"><animate attributeName="begin" begin="draw_lt2.end"/> </use>
+    <use href="#arrow" transform="translate(480, 185) rotate(-35)"><animate attributeName="begin" begin="draw_lt2.end"/> </use>
+    <use href="#arrow" transform="translate(320, 415) rotate(145)"><animate attributeName="begin" begin="draw_lb2.end"/> </use>
+    <use href="#arrow" transform="translate(480, 415) rotate(35)"><animate attributeName="begin" begin="draw_lb2.end"/> </use>
+    <use href="#arrow" transform="translate(300, 135) rotate(-135)"><animate attributeName="begin" begin="draw_lt3.end"/> </use>
+    <use href="#arrow" transform="translate(500, 135) rotate(-45)"><animate attributeName="begin" begin="draw_lt3.end"/> </use>
+    <use href="#arrow" transform="translate(300, 465) rotate(135)"><animate attributeName="begin" begin="draw_lb3.end"/> </use>
+    <use href="#arrow" transform="translate(500, 465) rotate(45)"><animate attributeName="begin" begin="draw_lb3.end"/> </use>
+    <use href="#arrow" transform="translate(280, 85) rotate(-130)"><animate attributeName="begin" begin="draw_lt4.end"/> </use>
+    <use href="#arrow" transform="translate(520, 85) rotate(-50)"><animate attributeName="begin" begin="draw_lt4.end"/> </use>
+    <use href="#arrow" transform="translate(280, 515) rotate(130)"><animate attributeName="begin" begin="draw_lb4.end"/> </use>
+    <use href="#arrow" transform="translate(520, 515) rotate(50)"><animate attributeName="begin" begin="draw_lb4.end"/> </use>
+    
+    <!-- Radial Arrows -->
+    <use href="#arrow" transform="translate(750, 300) rotate(0)"><animate attributeName="begin" begin="draw_rN1.end"/> </use>
+    <use href="#arrow" transform="translate(750, 220) rotate(-15)"><animate attributeName="begin" begin="draw_rN2.end"/> </use>
+    <use href="#arrow" transform="translate(750, 380) rotate(15)"><animate attributeName="begin" begin="draw_rN3.end"/> </use>
+    <use href="#arrow" transform="translate(750, 120) rotate(-30)"><animate attributeName="begin" begin="draw_rN4.end"/> </use>
+    <use href="#arrow" transform="translate(750, 480) rotate(30)"><animate attributeName="begin" begin="draw_rN5.end"/> </use>
+    <use href="#arrow" transform="translate(50, 300) rotate(180)"><animate attributeName="begin" begin="draw_rS1.end"/> </use>
+    <use href="#arrow" transform="translate(50, 220) rotate(165)"><animate attributeName="begin" begin="draw_rS2.end"/> </use>
+    <use href="#arrow" transform="translate(50, 380) rotate(-165)"><animate attributeName="begin" begin="draw_rS3.end"/> </use>
+    <use href="#arrow" transform="translate(50, 120) rotate(150)"><animate attributeName="begin" begin="draw_rS4.end"/> </use>
+    <use href="#arrow" transform="translate(50, 480) rotate(-150)"><animate attributeName="begin" begin="draw_rS5.end"/> </use>
+  </g>
+</svg>
