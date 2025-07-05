@@ -1,0 +1,114 @@
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" style="background-color:#F0F4F8; font-family: Arial, Helvetica, sans-serif;">
+<title>Solenoid Magnetic Field Animation with Current Flow</title>
+<desc>An interactive diagram illustrating how a solenoid creates a magnetic field. Clicking the switch closes the circuit. Arrows and animated particles show the direction of conventional current (I) from the battery's positive terminal, through the coil, and back to the negative terminal. This current generates a uniform magnetic field inside the coil, with North and South poles as indicated.</desc>
+
+<defs>
+<!-- Marker for Magnetic Field Lines -->
+<marker id="arrowhead" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#4A90E2" />
+</marker>
+<!-- Marker for Circuit Current Arrows -->
+<marker id="current_arrowhead" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="#007A7A" />
+</marker>
+<!-- Marker for Animated Solenoid Current -->
+<marker id="solenoid_current_arrow" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M 0 5 L 10 5 L 7 0 M 10 5 L 7 10" stroke="#FF9800" stroke-width="2" fill="none" stroke-linecap="round"/>
+</marker>
+</defs>
+
+<!-- STATIC LABELS -->
+<text x="150" y="380" font-size="18" fill="#333">Battery</text>
+<text x="290" y="165" font-size="20" fill="#333" font-weight="bold">K</text>
+<text id="instruction" x="400" y="580" text-anchor="middle" font-size="16" fill="#555" font-style="italic">Click the switch (K) to close the circuit.</text>
+
+<!-- CIRCUIT ELEMENTS -->
+<g id="circuit">
+<!-- Battery -->
+<rect x="140" y="270" width="40" height="100" fill="#FFF" stroke="#333" stroke-width="2"/>
+<line x1="160" y1="270" x2="160" y2="240" stroke="#333" stroke-width="2"/>
+<line x1="145" y1="250" x2="175" y2="250" stroke="#333" stroke-width="3"/>
+<line x1="152" y1="260" x2="168" y2="260" stroke="#333" stroke-width="2"/>
+<text x="185" y="260" font-size="24" fill="#333">+</text>
+<text x="185" y="370" font-size="32" fill="#333">-</text>
+
+<!-- Wires -->
+<path d="M 160 370 L 160 450 L 500 450" stroke="#333" stroke-width="2" fill="none"/>
+<path d="M 160 240 L 250 240" stroke="#333" stroke-width="2" fill="none"/>
+<path d="M 330 240 L 500 240" stroke="#333" stroke-width="2" fill="none"/>
+
+<!-- Switch -->
+<g id="switch" cursor="pointer">
+  <circle cx="260" cy="240" r="6" fill="#333"/>
+  <circle cx="320" cy="240" r="6" fill="#333"/>
+  <line id="switch_arm" x1="260" y1="240" x2="310" y2="210" stroke="#D0021B" stroke-width="4" stroke-linecap="round">
+    <animateTransform id="switch_close_anim" attributeName="transform" type="rotate" from="30 260 240" to="0 260 240" dur="0.5s" begin="click" fill="freeze"/>
+  </line>
+</g>
+</g>
+
+<!-- SOLENOID COIL -->
+<g id="solenoid">
+<path d="M 500 290 A 50 50 0 0 0 500 410 M 530 290 A 50 50 0 0 0 530 410 M 560 290 A 50 50 0 0 0 560 410 M 590 290 A 50 50 0 0 0 590 410 M 620 290 A 50 50 0 0 0 620 410 M 650 290 A 50 50 0 0 0 650 410"
+stroke="#A56A43" stroke-width="3" stroke-opacity="0.5" fill="none"/>
+<path d="M 500 240 Q 500 270, 500 290" stroke="#333" stroke-width="2" fill="none"/>
+<path d="M 680 410 Q 680 430, 680 450 L 500 450" stroke="#333" stroke-width="2" fill="none"/>
+<path d="M 500 290 A 50 50 0 0 1 500 410 M 530 290 A 50 50 0 0 1 530 410 M 560 290 A 50 50 0 0 1 560 410 M 590 290 A 50 50 0 0 1 590 410 M 620 290 A 50 50 0 0 1 620 410 M 650 290 A 50 50 0 0 1 650 410 M 680 290 A 50 50 0 0 1 680 410"
+stroke="#B87333" stroke-width="5" fill="none"/>
+<path d="M 680 290 L 500 290" stroke="#B87333" stroke-width="5" fill="none"/>
+<path d="M 680 410 L 500 410" stroke="#B87333" stroke-width="5" fill="none"/>
+</g>
+
+<!-- CURRENT INDICATORS (LABEL AND ARROWS) -->
+<g id="current_indicators" opacity="0">
+<animate attributeName="opacity" to="1" begin="switch_close_anim.end" fill="freeze"/>
+<text x="190" y="245" font-size="20" font-style="italic" fill="#007A7A" font-weight="bold">I</text>
+<path d="M 210 240 L 230 240" stroke="#007A7A" stroke-width="2" marker-end="url(#current_arrowhead)"/>
+<path d="M 400 240 L 420 240" stroke="#007A7A" stroke-width="2" marker-end="url(#current_arrowhead)"/>
+<path d="M 400 450 L 380 450" stroke="#007A7A" stroke-width="2" marker-end="url(#current_arrowhead)"/>
+<path d="M 250 450 L 230 450" stroke="#007A7A" stroke-width="2" marker-end="url(#current_arrowhead)"/>
+</g>
+
+<!-- ANIMATED CURRENT FLOW (PARTICLES) -->
+<g id="current_flow_particles" opacity="0">
+<animate attributeName="opacity" to="1" begin="switch_close_anim.end+0.2s" fill="freeze"/>
+<!-- This complex path makes the particles weave through the solenoid coils -->
+<path id="current_path" d="M 160 240 L 320 240 L 500 240 Q 500 270, 500 290 L 680 290 A 50 50 0 0 1 680 410 L 500 410 A 50 50 0 0 1 500 290 L 650 290 A 50 50 0 0 1 650 410 L 530 410 A 50 50 0 0 1 530 290 L 620 290 A 50 50 0 0 1 620 410 L 560 410 A 50 50 0 0 1 560 290 L 590 290 A 50 50 0 0 1 590 410 Q 590 430, 590 450 L 160 450 L 160 370" fill="none"/>
+<circle r="4" fill="#FFD700">
+<animateMotion dur="8s" repeatCount="indefinite" begin="switch_close_anim.end+0.2s"> <mpath href="#current_path"/> </animateMotion>
+</circle>
+<circle r="4" fill="#FFD700">
+<animateMotion dur="8s" repeatCount="indefinite" begin="switch_close_anim.end+4.2s"> <mpath href="#current_path"/> </animateMotion>
+</circle>
+</g>
+
+<!-- ANIMATED CURRENT FLOW (ARROWS ON COIL) -->
+<g id="solenoid_current_arrows" opacity="0">
+<animate attributeName="opacity" to="1" begin="switch_close_anim.end+0.2s" fill="freeze"/>
+<path d="M 500 410 L 500 290 M 530 410 L 530 290 M 560 410 L 560 290 M 590 410 L 590 290 M 620 410 L 620 290 M 650 410 L 650 290 M 680 410 L 680 290"
+stroke="#FF9800" stroke-width="2.5" fill="none"
+marker-start="url(#solenoid_current_arrow)" marker-mid="url(#solenoid_current_arrow)"
+stroke-dasharray="10 110">
+<animate attributeName="stroke-dashoffset" from="120" to="0" dur="2.5s" repeatCount="indefinite" begin="switch_close_anim.end+0.2s" />
+</path>
+</g>
+
+<!-- MAGNETIC FIELD & POLES -->
+<g id="magnetic_field_group" opacity="0">
+<animate attributeName="opacity" to="1" begin="switch_close_anim.end+0.8s" fill="freeze"/>
+<text x="460" y="358" font-size="28" font-weight="bold" fill="#D0021B">S</text>
+<text x="700" y="358" font-size="28" font-weight="bold" fill="#4A90E2">N</text>
+<path d="M 490 320 L 690 320 M 490 350 L 690 350 M 490 380 L 690 380" stroke="#4A90E2" stroke-width="2" marker-end="url(#arrowhead)" stroke-dasharray="200" stroke-dashoffset="200">
+<animate attributeName="stroke-dashoffset" from="200" to="0" dur="1.5s" begin="switch_close_anim.end+0.8s" fill="freeze"/>
+</path>
+<path d="M 690 350 C 780 350, 780 200, 590 200 C 400 200, 400 350, 490 350" stroke="#4A90E2" stroke-width="2" fill="none" marker-end="url(#arrowhead)" stroke-dasharray="620" stroke-dashoffset="620">
+<animate attributeName="stroke-dashoffset" from="620" to="0" dur="2.5s" begin="switch_close_anim.end+1.5s" fill="freeze"/>
+</path>
+<path d="M 690 350 C 780 350, 780 500, 590 500 C 400 500, 400 350, 490 350" stroke="#4A90E2" stroke-width="2" fill="none" marker-end="url(#arrowhead)" stroke-dasharray="620" stroke-dashoffset="620">
+<animate attributeName="stroke-dashoffset" from="620" to="0" dur="2.5s" begin="switch_close_anim.end+1.5s" fill="freeze"/>
+</path>
+</g>
+
+<!-- Animation to hide instruction text after click -->
+<animate href="#instruction" attributeName="opacity" from="1" to="0" dur="0.5s" begin="switch_close_anim.begin" fill="freeze"/>
+</svg>
