@@ -1,0 +1,2210 @@
+{
+  "language_code": null,
+  "segments": [
+    {
+      "text": "Let's explore the powerful link between electricity and magnetism. ",
+      "start_time": 0.099,
+      "end_time": 5.44,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "Let's",
+          "start_time": 0.099,
+          "end_time": 0.319
+        },
+        {
+          "text": " ",
+          "start_time": 0.319,
+          "end_time": 0.379
+        },
+        {
+          "text": "explore",
+          "start_time": 0.379,
+          "end_time": 0.68
+        },
+        {
+          "text": " ",
+          "start_time": 0.68,
+          "end_time": 0.719
+        },
+        {
+          "text": "the",
+          "start_time": 0.719,
+          "end_time": 0.819
+        },
+        {
+          "text": " ",
+          "start_time": 0.819,
+          "end_time": 0.819
+        },
+        {
+          "text": "powerful",
+          "start_time": 0.819,
+          "end_time": 1.3
+        },
+        {
+          "text": " ",
+          "start_time": 1.3,
+          "end_time": 1.36
+        },
+        {
+          "text": "link",
+          "start_time": 1.36,
+          "end_time": 1.62
+        },
+        {
+          "text": " ",
+          "start_time": 1.62,
+          "end_time": 1.959
+        },
+        {
+          "text": "between",
+          "start_time": 1.959,
+          "end_time": 2.239
+        },
+        {
+          "text": " ",
+          "start_time": 2.239,
+          "end_time": 2.319
+        },
+        {
+          "text": "electricity",
+          "start_time": 2.319,
+          "end_time": 3.22
+        },
+        {
+          "text": " ",
+          "start_time": 3.22,
+          "end_time": 3.259
+        },
+        {
+          "text": "and",
+          "start_time": 3.259,
+          "end_time": 3.359
+        },
+        {
+          "text": " ",
+          "start_time": 3.359,
+          "end_time": 3.419
+        },
+        {
+          "text": "magnetism.",
+          "start_time": 3.419,
+          "end_time": 4.159
+        },
+        {
+          "text": " ",
+          "start_time": 4.159,
+          "end_time": 5.44
+        }
+      ]
+    },
+    {
+      "text": "Meet Hans Christian Oersted, the scientist who discovered this connection in 1820. He found that an electric current flowing through a wire creates a magnetic effect, causing a nearby compass needle to deflect. ",
+      "start_time": 5.44,
+      "end_time": 20.1,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "Meet",
+          "start_time": 5.44,
+          "end_time": 5.699
+        },
+        {
+          "text": " ",
+          "start_time": 5.699,
+          "end_time": 5.739
+        },
+        {
+          "text": "Hans",
+          "start_time": 5.739,
+          "end_time": 6.079
+        },
+        {
+          "text": " ",
+          "start_time": 6.079,
+          "end_time": 6.119
+        },
+        {
+          "text": "Christian",
+          "start_time": 6.119,
+          "end_time": 6.539
+        },
+        {
+          "text": " ",
+          "start_time": 6.539,
+          "end_time": 6.559
+        },
+        {
+          "text": "Oersted,",
+          "start_time": 6.559,
+          "end_time": 7.199
+        },
+        {
+          "text": " ",
+          "start_time": 7.199,
+          "end_time": 7.759
+        },
+        {
+          "text": "the",
+          "start_time": 7.759,
+          "end_time": 7.879
+        },
+        {
+          "text": " ",
+          "start_time": 7.879,
+          "end_time": 7.879
+        },
+        {
+          "text": "scientist",
+          "start_time": 7.879,
+          "end_time": 8.42
+        },
+        {
+          "text": " ",
+          "start_time": 8.42,
+          "end_time": 8.439
+        },
+        {
+          "text": "who",
+          "start_time": 8.439,
+          "end_time": 8.539
+        },
+        {
+          "text": " ",
+          "start_time": 8.539,
+          "end_time": 8.539
+        },
+        {
+          "text": "discovered",
+          "start_time": 8.539,
+          "end_time": 9.0
+        },
+        {
+          "text": " ",
+          "start_time": 9.0,
+          "end_time": 9.039
+        },
+        {
+          "text": "this",
+          "start_time": 9.039,
+          "end_time": 9.14
+        },
+        {
+          "text": " ",
+          "start_time": 9.14,
+          "end_time": 9.199
+        },
+        {
+          "text": "connection",
+          "start_time": 9.199,
+          "end_time": 9.619
+        },
+        {
+          "text": " ",
+          "start_time": 9.619,
+          "end_time": 9.659
+        },
+        {
+          "text": "in",
+          "start_time": 9.659,
+          "end_time": 9.819
+        },
+        {
+          "text": " ",
+          "start_time": 9.819,
+          "end_time": 9.84
+        },
+        {
+          "text": "1820.",
+          "start_time": 9.84,
+          "end_time": 10.72
+        },
+        {
+          "text": " ",
+          "start_time": 10.72,
+          "end_time": 11.679
+        },
+        {
+          "text": "He",
+          "start_time": 11.679,
+          "end_time": 11.759
+        },
+        {
+          "text": " ",
+          "start_time": 11.759,
+          "end_time": 11.859
+        },
+        {
+          "text": "found",
+          "start_time": 11.859,
+          "end_time": 12.14
+        },
+        {
+          "text": " ",
+          "start_time": 12.14,
+          "end_time": 12.159
+        },
+        {
+          "text": "that",
+          "start_time": 12.159,
+          "end_time": 12.259
+        },
+        {
+          "text": " ",
+          "start_time": 12.259,
+          "end_time": 12.279
+        },
+        {
+          "text": "an",
+          "start_time": 12.279,
+          "end_time": 12.36
+        },
+        {
+          "text": " ",
+          "start_time": 12.36,
+          "end_time": 12.38
+        },
+        {
+          "text": "electric",
+          "start_time": 12.38,
+          "end_time": 12.739
+        },
+        {
+          "text": " ",
+          "start_time": 12.739,
+          "end_time": 12.84
+        },
+        {
+          "text": "current",
+          "start_time": 12.84,
+          "end_time": 13.159
+        },
+        {
+          "text": " ",
+          "start_time": 13.159,
+          "end_time": 13.219
+        },
+        {
+          "text": "flowing",
+          "start_time": 13.219,
+          "end_time": 13.5
+        },
+        {
+          "text": " ",
+          "start_time": 13.5,
+          "end_time": 13.559
+        },
+        {
+          "text": "through",
+          "start_time": 13.559,
+          "end_time": 13.699
+        },
+        {
+          "text": " ",
+          "start_time": 13.699,
+          "end_time": 13.699
+        },
+        {
+          "text": "a",
+          "start_time": 13.699,
+          "end_time": 13.76
+        },
+        {
+          "text": " ",
+          "start_time": 13.76,
+          "end_time": 13.84
+        },
+        {
+          "text": "wire",
+          "start_time": 13.84,
+          "end_time": 14.119
+        },
+        {
+          "text": " ",
+          "start_time": 14.119,
+          "end_time": 14.199
+        },
+        {
+          "text": "creates",
+          "start_time": 14.199,
+          "end_time": 14.539
+        },
+        {
+          "text": " ",
+          "start_time": 14.539,
+          "end_time": 14.579
+        },
+        {
+          "text": "a",
+          "start_time": 14.579,
+          "end_time": 14.6
+        },
+        {
+          "text": " ",
+          "start_time": 14.6,
+          "end_time": 14.719
+        },
+        {
+          "text": "magnetic",
+          "start_time": 14.719,
+          "end_time": 15.299
+        },
+        {
+          "text": " ",
+          "start_time": 15.299,
+          "end_time": 15.319
+        },
+        {
+          "text": "effect,",
+          "start_time": 15.319,
+          "end_time": 15.879
+        },
+        {
+          "text": " ",
+          "start_time": 15.879,
+          "end_time": 16.359
+        },
+        {
+          "text": "causing",
+          "start_time": 16.359,
+          "end_time": 16.7
+        },
+        {
+          "text": " ",
+          "start_time": 16.7,
+          "end_time": 16.719
+        },
+        {
+          "text": "a",
+          "start_time": 16.719,
+          "end_time": 16.779
+        },
+        {
+          "text": " ",
+          "start_time": 16.779,
+          "end_time": 16.859
+        },
+        {
+          "text": "nearby",
+          "start_time": 16.859,
+          "end_time": 17.2
+        },
+        {
+          "text": " ",
+          "start_time": 17.2,
+          "end_time": 17.26
+        },
+        {
+          "text": "compass",
+          "start_time": 17.26,
+          "end_time": 17.6
+        },
+        {
+          "text": " ",
+          "start_time": 17.6,
+          "end_time": 17.639
+        },
+        {
+          "text": "needle",
+          "start_time": 17.639,
+          "end_time": 17.84
+        },
+        {
+          "text": " ",
+          "start_time": 17.84,
+          "end_time": 17.84
+        },
+        {
+          "text": "to",
+          "start_time": 17.84,
+          "end_time": 17.94
+        },
+        {
+          "text": " ",
+          "start_time": 17.94,
+          "end_time": 17.979
+        },
+        {
+          "text": "deflect.",
+          "start_time": 17.979,
+          "end_time": 18.54
+        },
+        {
+          "text": " ",
+          "start_time": 18.54,
+          "end_time": 20.1
+        }
+      ]
+    },
+    {
+      "text": "To visualize this invisible force, we can use iron filings. ",
+      "start_time": 20.1,
+      "end_time": 24.779,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "To",
+          "start_time": 20.1,
+          "end_time": 20.2
+        },
+        {
+          "text": " ",
+          "start_time": 20.2,
+          "end_time": 20.239
+        },
+        {
+          "text": "visualize",
+          "start_time": 20.239,
+          "end_time": 20.76
+        },
+        {
+          "text": " ",
+          "start_time": 20.76,
+          "end_time": 20.799
+        },
+        {
+          "text": "this",
+          "start_time": 20.799,
+          "end_time": 20.94
+        },
+        {
+          "text": " ",
+          "start_time": 20.94,
+          "end_time": 20.979
+        },
+        {
+          "text": "invisible",
+          "start_time": 20.979,
+          "end_time": 21.5
+        },
+        {
+          "text": " ",
+          "start_time": 21.5,
+          "end_time": 21.579
+        },
+        {
+          "text": "force,",
+          "start_time": 21.579,
+          "end_time": 21.979
+        },
+        {
+          "text": " ",
+          "start_time": 21.979,
+          "end_time": 22.0
+        },
+        {
+          "text": "we",
+          "start_time": 22.0,
+          "end_time": 22.079
+        },
+        {
+          "text": " ",
+          "start_time": 22.079,
+          "end_time": 22.1
+        },
+        {
+          "text": "can",
+          "start_time": 22.1,
+          "end_time": 22.239
+        },
+        {
+          "text": " ",
+          "start_time": 22.239,
+          "end_time": 22.299
+        },
+        {
+          "text": "use",
+          "start_time": 22.299,
+          "end_time": 22.52
+        },
+        {
+          "text": " ",
+          "start_time": 22.52,
+          "end_time": 22.699
+        },
+        {
+          "text": "iron",
+          "start_time": 22.699,
+          "end_time": 22.979
+        },
+        {
+          "text": " ",
+          "start_time": 22.979,
+          "end_time": 23.039
+        },
+        {
+          "text": "filings.",
+          "start_time": 23.039,
+          "end_time": 23.679
+        },
+        {
+          "text": " ",
+          "start_time": 23.679,
+          "end_time": 24.779
+        }
+      ]
+    },
+    {
+      "text": "Around a bar magnet, they trace the pattern of the magnetic field lines. ",
+      "start_time": 24.779,
+      "end_time": 29.799,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "Around",
+          "start_time": 24.779,
+          "end_time": 25.1
+        },
+        {
+          "text": " ",
+          "start_time": 25.1,
+          "end_time": 25.119
+        },
+        {
+          "text": "a",
+          "start_time": 25.119,
+          "end_time": 25.179
+        },
+        {
+          "text": " ",
+          "start_time": 25.179,
+          "end_time": 25.219
+        },
+        {
+          "text": "bar",
+          "start_time": 25.219,
+          "end_time": 25.399
+        },
+        {
+          "text": " ",
+          "start_time": 25.399,
+          "end_time": 25.439
+        },
+        {
+          "text": "magnet,",
+          "start_time": 25.439,
+          "end_time": 25.919
+        },
+        {
+          "text": " ",
+          "start_time": 25.919,
+          "end_time": 26.279
+        },
+        {
+          "text": "they",
+          "start_time": 26.279,
+          "end_time": 26.439
+        },
+        {
+          "text": " ",
+          "start_time": 26.439,
+          "end_time": 26.459
+        },
+        {
+          "text": "trace",
+          "start_time": 26.459,
+          "end_time": 26.719
+        },
+        {
+          "text": " ",
+          "start_time": 26.719,
+          "end_time": 26.739
+        },
+        {
+          "text": "the",
+          "start_time": 26.739,
+          "end_time": 26.799
+        },
+        {
+          "text": " ",
+          "start_time": 26.799,
+          "end_time": 26.899
+        },
+        {
+          "text": "pattern",
+          "start_time": 26.899,
+          "end_time": 27.159
+        },
+        {
+          "text": " ",
+          "start_time": 27.159,
+          "end_time": 27.159
+        },
+        {
+          "text": "of",
+          "start_time": 27.159,
+          "end_time": 27.259
+        },
+        {
+          "text": " ",
+          "start_time": 27.259,
+          "end_time": 27.279
+        },
+        {
+          "text": "the",
+          "start_time": 27.279,
+          "end_time": 27.34
+        },
+        {
+          "text": " ",
+          "start_time": 27.34,
+          "end_time": 27.379
+        },
+        {
+          "text": "magnetic",
+          "start_time": 27.379,
+          "end_time": 27.84
+        },
+        {
+          "text": " ",
+          "start_time": 27.84,
+          "end_time": 27.879
+        },
+        {
+          "text": "field",
+          "start_time": 27.879,
+          "end_time": 28.18
+        },
+        {
+          "text": " ",
+          "start_time": 28.18,
+          "end_time": 28.219
+        },
+        {
+          "text": "lines.",
+          "start_time": 28.219,
+          "end_time": 28.639
+        },
+        {
+          "text": " ",
+          "start_time": 28.639,
+          "end_time": 29.799
+        }
+      ]
+    },
+    {
+      "text": "These field lines have rules. They flow from north to south, are densest where the field is strong, and can never cross each other. ",
+      "start_time": 29.799,
+      "end_time": 39.5,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "These",
+          "start_time": 29.799,
+          "end_time": 30.04
+        },
+        {
+          "text": " ",
+          "start_time": 30.04,
+          "end_time": 30.119
+        },
+        {
+          "text": "field",
+          "start_time": 30.119,
+          "end_time": 30.36
+        },
+        {
+          "text": " ",
+          "start_time": 30.36,
+          "end_time": 30.399
+        },
+        {
+          "text": "lines",
+          "start_time": 30.399,
+          "end_time": 30.639
+        },
+        {
+          "text": " ",
+          "start_time": 30.639,
+          "end_time": 30.679
+        },
+        {
+          "text": "have",
+          "start_time": 30.679,
+          "end_time": 30.819
+        },
+        {
+          "text": " ",
+          "start_time": 30.819,
+          "end_time": 30.859
+        },
+        {
+          "text": "rules.",
+          "start_time": 30.859,
+          "end_time": 31.439
+        },
+        {
+          "text": " ",
+          "start_time": 31.439,
+          "end_time": 31.739
+        },
+        {
+          "text": "They",
+          "start_time": 31.739,
+          "end_time": 31.84
+        },
+        {
+          "text": " ",
+          "start_time": 31.84,
+          "end_time": 31.92
+        },
+        {
+          "text": "flow",
+          "start_time": 31.92,
+          "end_time": 32.1
+        },
+        {
+          "text": " ",
+          "start_time": 32.1,
+          "end_time": 32.159
+        },
+        {
+          "text": "from",
+          "start_time": 32.159,
+          "end_time": 32.319
+        },
+        {
+          "text": " ",
+          "start_time": 32.319,
+          "end_time": 32.38
+        },
+        {
+          "text": "north",
+          "start_time": 32.38,
+          "end_time": 32.68
+        },
+        {
+          "text": " ",
+          "start_time": 32.68,
+          "end_time": 32.739
+        },
+        {
+          "text": "to",
+          "start_time": 32.739,
+          "end_time": 32.84
+        },
+        {
+          "text": " ",
+          "start_time": 32.84,
+          "end_time": 32.919
+        },
+        {
+          "text": "south,",
+          "start_time": 32.919,
+          "end_time": 33.379
+        },
+        {
+          "text": " ",
+          "start_time": 33.379,
+          "end_time": 33.899
+        },
+        {
+          "text": "are",
+          "start_time": 33.899,
+          "end_time": 34.04
+        },
+        {
+          "text": " ",
+          "start_time": 34.04,
+          "end_time": 34.099
+        },
+        {
+          "text": "densest",
+          "start_time": 34.099,
+          "end_time": 34.739
+        },
+        {
+          "text": " ",
+          "start_time": 34.739,
+          "end_time": 34.759
+        },
+        {
+          "text": "where",
+          "start_time": 34.759,
+          "end_time": 34.9
+        },
+        {
+          "text": " ",
+          "start_time": 34.9,
+          "end_time": 34.919
+        },
+        {
+          "text": "the",
+          "start_time": 34.919,
+          "end_time": 34.979
+        },
+        {
+          "text": " ",
+          "start_time": 34.979,
+          "end_time": 35.059
+        },
+        {
+          "text": "field",
+          "start_time": 35.059,
+          "end_time": 35.299
+        },
+        {
+          "text": " ",
+          "start_time": 35.299,
+          "end_time": 35.319
+        },
+        {
+          "text": "is",
+          "start_time": 35.319,
+          "end_time": 35.4
+        },
+        {
+          "text": " ",
+          "start_time": 35.4,
+          "end_time": 35.459
+        },
+        {
+          "text": "strong,",
+          "start_time": 35.459,
+          "end_time": 36.059
+        },
+        {
+          "text": " ",
+          "start_time": 36.059,
+          "end_time": 36.459
+        },
+        {
+          "text": "and",
+          "start_time": 36.459,
+          "end_time": 36.58
+        },
+        {
+          "text": " ",
+          "start_time": 36.58,
+          "end_time": 36.619
+        },
+        {
+          "text": "can",
+          "start_time": 36.619,
+          "end_time": 36.819
+        },
+        {
+          "text": " ",
+          "start_time": 36.819,
+          "end_time": 36.88
+        },
+        {
+          "text": "never",
+          "start_time": 36.88,
+          "end_time": 37.1
+        },
+        {
+          "text": " ",
+          "start_time": 37.1,
+          "end_time": 37.18
+        },
+        {
+          "text": "cross",
+          "start_time": 37.18,
+          "end_time": 37.42
+        },
+        {
+          "text": " ",
+          "start_time": 37.42,
+          "end_time": 37.459
+        },
+        {
+          "text": "each",
+          "start_time": 37.459,
+          "end_time": 37.599
+        },
+        {
+          "text": " ",
+          "start_time": 37.599,
+          "end_time": 37.639
+        },
+        {
+          "text": "other.",
+          "start_time": 37.639,
+          "end_time": 37.96
+        },
+        {
+          "text": " ",
+          "start_time": 37.96,
+          "end_time": 39.5
+        }
+      ]
+    },
+    {
+      "text": "The magnetic field around a straight current-carrying wire forms a distinct pattern, perfect concentric circles. To find the field's direction, use the right-hand thumb rule. ",
+      "start_time": 39.5,
+      "end_time": 51.159,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "The",
+          "start_time": 39.5,
+          "end_time": 39.599
+        },
+        {
+          "text": " ",
+          "start_time": 39.599,
+          "end_time": 39.639
+        },
+        {
+          "text": "magnetic",
+          "start_time": 39.639,
+          "end_time": 40.04
+        },
+        {
+          "text": " ",
+          "start_time": 40.04,
+          "end_time": 40.099
+        },
+        {
+          "text": "field",
+          "start_time": 40.099,
+          "end_time": 40.319
+        },
+        {
+          "text": " ",
+          "start_time": 40.319,
+          "end_time": 40.34
+        },
+        {
+          "text": "around",
+          "start_time": 40.34,
+          "end_time": 40.559
+        },
+        {
+          "text": " ",
+          "start_time": 40.559,
+          "end_time": 40.559
+        },
+        {
+          "text": "a",
+          "start_time": 40.559,
+          "end_time": 40.659
+        },
+        {
+          "text": " ",
+          "start_time": 40.659,
+          "end_time": 40.7
+        },
+        {
+          "text": "straight",
+          "start_time": 40.7,
+          "end_time": 41.039
+        },
+        {
+          "text": " ",
+          "start_time": 41.039,
+          "end_time": 41.139
+        },
+        {
+          "text": "current-carrying",
+          "start_time": 41.139,
+          "end_time": 41.78
+        },
+        {
+          "text": " ",
+          "start_time": 41.78,
+          "end_time": 41.84
+        },
+        {
+          "text": "wire",
+          "start_time": 41.84,
+          "end_time": 42.1
+        },
+        {
+          "text": " ",
+          "start_time": 42.1,
+          "end_time": 42.18
+        },
+        {
+          "text": "forms",
+          "start_time": 42.18,
+          "end_time": 42.439
+        },
+        {
+          "text": " ",
+          "start_time": 42.439,
+          "end_time": 42.459
+        },
+        {
+          "text": "a",
+          "start_time": 42.459,
+          "end_time": 42.52
+        },
+        {
+          "text": " ",
+          "start_time": 42.52,
+          "end_time": 42.559
+        },
+        {
+          "text": "distinct",
+          "start_time": 42.559,
+          "end_time": 42.959
+        },
+        {
+          "text": " ",
+          "start_time": 42.959,
+          "end_time": 43.04
+        },
+        {
+          "text": "pattern,",
+          "start_time": 43.04,
+          "end_time": 43.499
+        },
+        {
+          "text": " ",
+          "start_time": 43.499,
+          "end_time": 44.239
+        },
+        {
+          "text": "perfect",
+          "start_time": 44.239,
+          "end_time": 44.679
+        },
+        {
+          "text": " ",
+          "start_time": 44.679,
+          "end_time": 44.719
+        },
+        {
+          "text": "concentric",
+          "start_time": 44.719,
+          "end_time": 45.299
+        },
+        {
+          "text": " ",
+          "start_time": 45.299,
+          "end_time": 45.34
+        },
+        {
+          "text": "circles.",
+          "start_time": 45.34,
+          "end_time": 45.84
+        },
+        {
+          "text": " ",
+          "start_time": 45.84,
+          "end_time": 46.799
+        },
+        {
+          "text": "To",
+          "start_time": 46.799,
+          "end_time": 46.88
+        },
+        {
+          "text": " ",
+          "start_time": 46.88,
+          "end_time": 46.939
+        },
+        {
+          "text": "find",
+          "start_time": 46.939,
+          "end_time": 47.139
+        },
+        {
+          "text": " ",
+          "start_time": 47.139,
+          "end_time": 47.159
+        },
+        {
+          "text": "the",
+          "start_time": 47.159,
+          "end_time": 47.22
+        },
+        {
+          "text": " ",
+          "start_time": 47.22,
+          "end_time": 47.299
+        },
+        {
+          "text": "field's",
+          "start_time": 47.299,
+          "end_time": 47.599
+        },
+        {
+          "text": " ",
+          "start_time": 47.599,
+          "end_time": 47.619
+        },
+        {
+          "text": "direction,",
+          "start_time": 47.619,
+          "end_time": 48.199
+        },
+        {
+          "text": " ",
+          "start_time": 48.199,
+          "end_time": 48.439
+        },
+        {
+          "text": "use",
+          "start_time": 48.439,
+          "end_time": 48.639
+        },
+        {
+          "text": " ",
+          "start_time": 48.639,
+          "end_time": 48.659
+        },
+        {
+          "text": "the",
+          "start_time": 48.659,
+          "end_time": 48.72
+        },
+        {
+          "text": " ",
+          "start_time": 48.72,
+          "end_time": 48.759
+        },
+        {
+          "text": "right-hand",
+          "start_time": 48.759,
+          "end_time": 49.18
+        },
+        {
+          "text": " ",
+          "start_time": 49.18,
+          "end_time": 49.259
+        },
+        {
+          "text": "thumb",
+          "start_time": 49.259,
+          "end_time": 49.479
+        },
+        {
+          "text": " ",
+          "start_time": 49.479,
+          "end_time": 49.539
+        },
+        {
+          "text": "rule.",
+          "start_time": 49.539,
+          "end_time": 49.879
+        },
+        {
+          "text": " ",
+          "start_time": 49.879,
+          "end_time": 51.159
+        }
+      ]
+    },
+    {
+      "text": "Point your thumb with the current and your fingers curl in the direction of the magnetic field. ",
+      "start_time": 51.159,
+      "end_time": 56.819,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "Point",
+          "start_time": 51.159,
+          "end_time": 51.42
+        },
+        {
+          "text": " ",
+          "start_time": 51.42,
+          "end_time": 51.439
+        },
+        {
+          "text": "your",
+          "start_time": 51.439,
+          "end_time": 51.54
+        },
+        {
+          "text": " ",
+          "start_time": 51.54,
+          "end_time": 51.619
+        },
+        {
+          "text": "thumb",
+          "start_time": 51.619,
+          "end_time": 51.84
+        },
+        {
+          "text": " ",
+          "start_time": 51.84,
+          "end_time": 51.84
+        },
+        {
+          "text": "with",
+          "start_time": 51.84,
+          "end_time": 51.959
+        },
+        {
+          "text": " ",
+          "start_time": 51.959,
+          "end_time": 51.979
+        },
+        {
+          "text": "the",
+          "start_time": 51.979,
+          "end_time": 52.04
+        },
+        {
+          "text": " ",
+          "start_time": 52.04,
+          "end_time": 52.119
+        },
+        {
+          "text": "current",
+          "start_time": 52.119,
+          "end_time": 52.459
+        },
+        {
+          "text": " ",
+          "start_time": 52.459,
+          "end_time": 52.799
+        },
+        {
+          "text": "and",
+          "start_time": 52.799,
+          "end_time": 52.899
+        },
+        {
+          "text": " ",
+          "start_time": 52.899,
+          "end_time": 52.899
+        },
+        {
+          "text": "your",
+          "start_time": 52.899,
+          "end_time": 53.02
+        },
+        {
+          "text": " ",
+          "start_time": 53.02,
+          "end_time": 53.119
+        },
+        {
+          "text": "fingers",
+          "start_time": 53.119,
+          "end_time": 53.439
+        },
+        {
+          "text": " ",
+          "start_time": 53.439,
+          "end_time": 53.5
+        },
+        {
+          "text": "curl",
+          "start_time": 53.5,
+          "end_time": 53.779
+        },
+        {
+          "text": " ",
+          "start_time": 53.779,
+          "end_time": 53.799
+        },
+        {
+          "text": "in",
+          "start_time": 53.799,
+          "end_time": 53.86
+        },
+        {
+          "text": " ",
+          "start_time": 53.86,
+          "end_time": 53.879
+        },
+        {
+          "text": "the",
+          "start_time": 53.879,
+          "end_time": 53.939
+        },
+        {
+          "text": " ",
+          "start_time": 53.939,
+          "end_time": 53.979
+        },
+        {
+          "text": "direction",
+          "start_time": 53.979,
+          "end_time": 54.38
+        },
+        {
+          "text": " ",
+          "start_time": 54.38,
+          "end_time": 54.399
+        },
+        {
+          "text": "of",
+          "start_time": 54.399,
+          "end_time": 54.5
+        },
+        {
+          "text": " ",
+          "start_time": 54.5,
+          "end_time": 54.52
+        },
+        {
+          "text": "the",
+          "start_time": 54.52,
+          "end_time": 54.579
+        },
+        {
+          "text": " ",
+          "start_time": 54.579,
+          "end_time": 54.639
+        },
+        {
+          "text": "magnetic",
+          "start_time": 54.639,
+          "end_time": 55.04
+        },
+        {
+          "text": " ",
+          "start_time": 55.04,
+          "end_time": 55.139
+        },
+        {
+          "text": "field.",
+          "start_time": 55.139,
+          "end_time": 55.52
+        },
+        {
+          "text": " ",
+          "start_time": 55.52,
+          "end_time": 56.819
+        }
+      ]
+    },
+    {
+      "text": "Bending the wire into a loop concentrates the magnetic field. Inside, the field lines combine, creating a stronger field at the center. ",
+      "start_time": 56.819,
+      "end_time": 65.54,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "Bending",
+          "start_time": 56.819,
+          "end_time": 57.18
+        },
+        {
+          "text": " ",
+          "start_time": 57.18,
+          "end_time": 57.199
+        },
+        {
+          "text": "the",
+          "start_time": 57.199,
+          "end_time": 57.259
+        },
+        {
+          "text": " ",
+          "start_time": 57.259,
+          "end_time": 57.34
+        },
+        {
+          "text": "wire",
+          "start_time": 57.34,
+          "end_time": 57.579
+        },
+        {
+          "text": " ",
+          "start_time": 57.579,
+          "end_time": 57.599
+        },
+        {
+          "text": "into",
+          "start_time": 57.599,
+          "end_time": 57.779
+        },
+        {
+          "text": " ",
+          "start_time": 57.779,
+          "end_time": 57.819
+        },
+        {
+          "text": "a",
+          "start_time": 57.819,
+          "end_time": 57.88
+        },
+        {
+          "text": " ",
+          "start_time": 57.88,
+          "end_time": 57.939
+        },
+        {
+          "text": "loop",
+          "start_time": 57.939,
+          "end_time": 58.159
+        },
+        {
+          "text": " ",
+          "start_time": 58.159,
+          "end_time": 58.18
+        },
+        {
+          "text": "concentrates",
+          "start_time": 58.18,
+          "end_time": 58.819
+        },
+        {
+          "text": " ",
+          "start_time": 58.819,
+          "end_time": 58.859
+        },
+        {
+          "text": "the",
+          "start_time": 58.859,
+          "end_time": 58.919
+        },
+        {
+          "text": " ",
+          "start_time": 58.919,
+          "end_time": 58.959
+        },
+        {
+          "text": "magnetic",
+          "start_time": 58.959,
+          "end_time": 59.36
+        },
+        {
+          "text": " ",
+          "start_time": 59.36,
+          "end_time": 59.439
+        },
+        {
+          "text": "field.",
+          "start_time": 59.439,
+          "end_time": 59.859
+        },
+        {
+          "text": " ",
+          "start_time": 59.859,
+          "end_time": 60.799
+        },
+        {
+          "text": "Inside,",
+          "start_time": 60.799,
+          "end_time": 61.379
+        },
+        {
+          "text": " ",
+          "start_time": 61.379,
+          "end_time": 61.399
+        },
+        {
+          "text": "the",
+          "start_time": 61.399,
+          "end_time": 61.479
+        },
+        {
+          "text": " ",
+          "start_time": 61.479,
+          "end_time": 61.559
+        },
+        {
+          "text": "field",
+          "start_time": 61.559,
+          "end_time": 61.819
+        },
+        {
+          "text": " ",
+          "start_time": 61.819,
+          "end_time": 61.879
+        },
+        {
+          "text": "lines",
+          "start_time": 61.879,
+          "end_time": 62.139
+        },
+        {
+          "text": " ",
+          "start_time": 62.139,
+          "end_time": 62.139
+        },
+        {
+          "text": "combine,",
+          "start_time": 62.139,
+          "end_time": 62.619
+        },
+        {
+          "text": " ",
+          "start_time": 62.619,
+          "end_time": 62.639
+        },
+        {
+          "text": "creating",
+          "start_time": 62.639,
+          "end_time": 62.919
+        },
+        {
+          "text": " ",
+          "start_time": 62.919,
+          "end_time": 62.939
+        },
+        {
+          "text": "a",
+          "start_time": 62.939,
+          "end_time": 62.979
+        },
+        {
+          "text": " ",
+          "start_time": 62.979,
+          "end_time": 63.039
+        },
+        {
+          "text": "stronger",
+          "start_time": 63.039,
+          "end_time": 63.419
+        },
+        {
+          "text": " ",
+          "start_time": 63.419,
+          "end_time": 63.52
+        },
+        {
+          "text": "field",
+          "start_time": 63.52,
+          "end_time": 63.779
+        },
+        {
+          "text": " ",
+          "start_time": 63.779,
+          "end_time": 63.779
+        },
+        {
+          "text": "at",
+          "start_time": 63.779,
+          "end_time": 63.86
+        },
+        {
+          "text": " ",
+          "start_time": 63.86,
+          "end_time": 63.879
+        },
+        {
+          "text": "the",
+          "start_time": 63.879,
+          "end_time": 63.959
+        },
+        {
+          "text": " ",
+          "start_time": 63.959,
+          "end_time": 64.0
+        },
+        {
+          "text": "center.",
+          "start_time": 64.0,
+          "end_time": 64.46
+        },
+        {
+          "text": " ",
+          "start_time": 64.46,
+          "end_time": 65.54
+        }
+      ]
+    },
+    {
+      "text": "Winding the wire into a coil with many turns multiplies this effect, creating a strong and uniform magnetic field through its center. ",
+      "start_time": 65.54,
+      "end_time": 74.239,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "Winding",
+          "start_time": 65.54,
+          "end_time": 65.919
+        },
+        {
+          "text": " ",
+          "start_time": 65.919,
+          "end_time": 65.939
+        },
+        {
+          "text": "the",
+          "start_time": 65.939,
+          "end_time": 66.0
+        },
+        {
+          "text": " ",
+          "start_time": 66.0,
+          "end_time": 66.08
+        },
+        {
+          "text": "wire",
+          "start_time": 66.08,
+          "end_time": 66.319
+        },
+        {
+          "text": " ",
+          "start_time": 66.319,
+          "end_time": 66.339
+        },
+        {
+          "text": "into",
+          "start_time": 66.339,
+          "end_time": 66.519
+        },
+        {
+          "text": " ",
+          "start_time": 66.519,
+          "end_time": 66.54
+        },
+        {
+          "text": "a",
+          "start_time": 66.54,
+          "end_time": 66.58
+        },
+        {
+          "text": " ",
+          "start_time": 66.58,
+          "end_time": 66.659
+        },
+        {
+          "text": "coil",
+          "start_time": 66.659,
+          "end_time": 66.939
+        },
+        {
+          "text": " ",
+          "start_time": 66.939,
+          "end_time": 66.959
+        },
+        {
+          "text": "with",
+          "start_time": 66.959,
+          "end_time": 67.08
+        },
+        {
+          "text": " ",
+          "start_time": 67.08,
+          "end_time": 67.159
+        },
+        {
+          "text": "many",
+          "start_time": 67.159,
+          "end_time": 67.359
+        },
+        {
+          "text": " ",
+          "start_time": 67.359,
+          "end_time": 67.4
+        },
+        {
+          "text": "turns",
+          "start_time": 67.4,
+          "end_time": 67.76
+        },
+        {
+          "text": " ",
+          "start_time": 67.76,
+          "end_time": 67.839
+        },
+        {
+          "text": "multiplies",
+          "start_time": 67.839,
+          "end_time": 68.419
+        },
+        {
+          "text": " ",
+          "start_time": 68.419,
+          "end_time": 68.419
+        },
+        {
+          "text": "this",
+          "start_time": 68.419,
+          "end_time": 68.559
+        },
+        {
+          "text": " ",
+          "start_time": 68.559,
+          "end_time": 68.599
+        },
+        {
+          "text": "effect,",
+          "start_time": 68.599,
+          "end_time": 69.079
+        },
+        {
+          "text": " ",
+          "start_time": 69.079,
+          "end_time": 69.739
+        },
+        {
+          "text": "creating",
+          "start_time": 69.739,
+          "end_time": 70.019
+        },
+        {
+          "text": " ",
+          "start_time": 70.019,
+          "end_time": 70.059
+        },
+        {
+          "text": "a",
+          "start_time": 70.059,
+          "end_time": 70.099
+        },
+        {
+          "text": " ",
+          "start_time": 70.099,
+          "end_time": 70.159
+        },
+        {
+          "text": "strong",
+          "start_time": 70.159,
+          "end_time": 70.5
+        },
+        {
+          "text": " ",
+          "start_time": 70.5,
+          "end_time": 70.5
+        },
+        {
+          "text": "and",
+          "start_time": 70.5,
+          "end_time": 70.62
+        },
+        {
+          "text": " ",
+          "start_time": 70.62,
+          "end_time": 70.68
+        },
+        {
+          "text": "uniform",
+          "start_time": 70.68,
+          "end_time": 71.079
+        },
+        {
+          "text": " ",
+          "start_time": 71.079,
+          "end_time": 71.099
+        },
+        {
+          "text": "magnetic",
+          "start_time": 71.099,
+          "end_time": 71.559
+        },
+        {
+          "text": " ",
+          "start_time": 71.559,
+          "end_time": 71.639
+        },
+        {
+          "text": "field",
+          "start_time": 71.639,
+          "end_time": 71.899
+        },
+        {
+          "text": " ",
+          "start_time": 71.899,
+          "end_time": 71.919
+        },
+        {
+          "text": "through",
+          "start_time": 71.919,
+          "end_time": 72.08
+        },
+        {
+          "text": " ",
+          "start_time": 72.08,
+          "end_time": 72.08
+        },
+        {
+          "text": "its",
+          "start_time": 72.08,
+          "end_time": 72.22
+        },
+        {
+          "text": " ",
+          "start_time": 72.22,
+          "end_time": 72.239
+        },
+        {
+          "text": "center.",
+          "start_time": 72.239,
+          "end_time": 72.719
+        },
+        {
+          "text": " ",
+          "start_time": 72.719,
+          "end_time": 74.239
+        }
+      ]
+    },
+    {
+      "text": "This leads to the electromagnet. By wrapping a coil around an iron core, we create a powerful magnet that can be turned on and off with a switch. This fundamental discovery powers our modern world.",
+      "start_time": 74.239,
+      "end_time": 85.559,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "This",
+          "start_time": 74.239,
+          "end_time": 74.459
+        },
+        {
+          "text": " ",
+          "start_time": 74.459,
+          "end_time": 74.5
+        },
+        {
+          "text": "leads",
+          "start_time": 74.5,
+          "end_time": 74.72
+        },
+        {
+          "text": " ",
+          "start_time": 74.72,
+          "end_time": 74.739
+        },
+        {
+          "text": "to",
+          "start_time": 74.739,
+          "end_time": 74.819
+        },
+        {
+          "text": " ",
+          "start_time": 74.819,
+          "end_time": 74.839
+        },
+        {
+          "text": "the",
+          "start_time": 74.839,
+          "end_time": 74.899
+        },
+        {
+          "text": " ",
+          "start_time": 74.899,
+          "end_time": 74.939
+        },
+        {
+          "text": "electromagnet.",
+          "start_time": 74.939,
+          "end_time": 75.839
+        },
+        {
+          "text": " ",
+          "start_time": 75.839,
+          "end_time": 76.479
+        },
+        {
+          "text": "By",
+          "start_time": 76.479,
+          "end_time": 76.639
+        },
+        {
+          "text": " ",
+          "start_time": 76.639,
+          "end_time": 76.699
+        },
+        {
+          "text": "wrapping",
+          "start_time": 76.699,
+          "end_time": 77.019
+        },
+        {
+          "text": " ",
+          "start_time": 77.019,
+          "end_time": 77.04
+        },
+        {
+          "text": "a",
+          "start_time": 77.04,
+          "end_time": 77.08
+        },
+        {
+          "text": " ",
+          "start_time": 77.08,
+          "end_time": 77.159
+        },
+        {
+          "text": "coil",
+          "start_time": 77.159,
+          "end_time": 77.399
+        },
+        {
+          "text": " ",
+          "start_time": 77.399,
+          "end_time": 77.419
+        },
+        {
+          "text": "around",
+          "start_time": 77.419,
+          "end_time": 77.619
+        },
+        {
+          "text": " ",
+          "start_time": 77.619,
+          "end_time": 77.639
+        },
+        {
+          "text": "an",
+          "start_time": 77.639,
+          "end_time": 77.759
+        },
+        {
+          "text": " ",
+          "start_time": 77.759,
+          "end_time": 77.799
+        },
+        {
+          "text": "iron",
+          "start_time": 77.799,
+          "end_time": 78.04
+        },
+        {
+          "text": " ",
+          "start_time": 78.04,
+          "end_time": 78.119
+        },
+        {
+          "text": "core,",
+          "start_time": 78.119,
+          "end_time": 78.579
+        },
+        {
+          "text": " ",
+          "start_time": 78.579,
+          "end_time": 78.9
+        },
+        {
+          "text": "we",
+          "start_time": 78.9,
+          "end_time": 79.059
+        },
+        {
+          "text": " ",
+          "start_time": 79.059,
+          "end_time": 79.08
+        },
+        {
+          "text": "create",
+          "start_time": 79.08,
+          "end_time": 79.279
+        },
+        {
+          "text": " ",
+          "start_time": 79.279,
+          "end_time": 79.279
+        },
+        {
+          "text": "a",
+          "start_time": 79.279,
+          "end_time": 79.419
+        },
+        {
+          "text": " ",
+          "start_time": 79.419,
+          "end_time": 79.5
+        },
+        {
+          "text": "powerful",
+          "start_time": 79.5,
+          "end_time": 79.919
+        },
+        {
+          "text": " ",
+          "start_time": 79.919,
+          "end_time": 80.0
+        },
+        {
+          "text": "magnet",
+          "start_time": 80.0,
+          "end_time": 80.4
+        },
+        {
+          "text": " ",
+          "start_time": 80.4,
+          "end_time": 80.4
+        },
+        {
+          "text": "that",
+          "start_time": 80.4,
+          "end_time": 80.539
+        },
+        {
+          "text": " ",
+          "start_time": 80.539,
+          "end_time": 80.559
+        },
+        {
+          "text": "can",
+          "start_time": 80.559,
+          "end_time": 80.679
+        },
+        {
+          "text": " ",
+          "start_time": 80.679,
+          "end_time": 80.699
+        },
+        {
+          "text": "be",
+          "start_time": 80.699,
+          "end_time": 80.819
+        },
+        {
+          "text": " ",
+          "start_time": 80.819,
+          "end_time": 80.819
+        },
+        {
+          "text": "turned",
+          "start_time": 80.819,
+          "end_time": 81.099
+        },
+        {
+          "text": " ",
+          "start_time": 81.099,
+          "end_time": 81.299
+        },
+        {
+          "text": "on",
+          "start_time": 81.299,
+          "end_time": 81.519
+        },
+        {
+          "text": " ",
+          "start_time": 81.519,
+          "end_time": 81.54
+        },
+        {
+          "text": "and",
+          "start_time": 81.54,
+          "end_time": 81.699
+        },
+        {
+          "text": " ",
+          "start_time": 81.699,
+          "end_time": 81.739
+        },
+        {
+          "text": "off",
+          "start_time": 81.739,
+          "end_time": 81.959
+        },
+        {
+          "text": " ",
+          "start_time": 81.959,
+          "end_time": 81.959
+        },
+        {
+          "text": "with",
+          "start_time": 81.959,
+          "end_time": 82.08
+        },
+        {
+          "text": " ",
+          "start_time": 82.08,
+          "end_time": 82.08
+        },
+        {
+          "text": "a",
+          "start_time": 82.08,
+          "end_time": 82.16
+        },
+        {
+          "text": " ",
+          "start_time": 82.16,
+          "end_time": 82.22
+        },
+        {
+          "text": "switch.",
+          "start_time": 82.22,
+          "end_time": 82.639
+        },
+        {
+          "text": " ",
+          "start_time": 82.639,
+          "end_time": 82.959
+        },
+        {
+          "text": "This",
+          "start_time": 82.959,
+          "end_time": 83.139
+        },
+        {
+          "text": " ",
+          "start_time": 83.139,
+          "end_time": 83.199
+        },
+        {
+          "text": "fundamental",
+          "start_time": 83.199,
+          "end_time": 83.659
+        },
+        {
+          "text": " ",
+          "start_time": 83.659,
+          "end_time": 83.72
+        },
+        {
+          "text": "discovery",
+          "start_time": 83.72,
+          "end_time": 84.22
+        },
+        {
+          "text": " ",
+          "start_time": 84.22,
+          "end_time": 84.279
+        },
+        {
+          "text": "powers",
+          "start_time": 84.279,
+          "end_time": 84.639
+        },
+        {
+          "text": " ",
+          "start_time": 84.639,
+          "end_time": 84.659
+        },
+        {
+          "text": "our",
+          "start_time": 84.659,
+          "end_time": 84.739
+        },
+        {
+          "text": " ",
+          "start_time": 84.739,
+          "end_time": 84.819
+        },
+        {
+          "text": "modern",
+          "start_time": 84.819,
+          "end_time": 85.08
+        },
+        {
+          "text": " ",
+          "start_time": 85.08,
+          "end_time": 85.159
+        },
+        {
+          "text": "world.",
+          "start_time": 85.159,
+          "end_time": 85.559
+        }
+      ]
+    }
+  ]
+}
