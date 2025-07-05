@@ -1,0 +1,2809 @@
+{
+  "language_code": null,
+  "segments": [
+    {
+      "text": "For centuries, electricity and magnetism were seen as two separate forces. In this lesson, we will explore the groundbreaking discovery that linked them forever and learn how to visualize the invisible fields they create. ",
+      "start_time": 0.099,
+      "end_time": 14.699,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "For",
+          "start_time": 0.099,
+          "end_time": 0.28
+        },
+        {
+          "text": " ",
+          "start_time": 0.28,
+          "end_time": 0.28
+        },
+        {
+          "text": "centuries,",
+          "start_time": 0.28,
+          "end_time": 0.899
+        },
+        {
+          "text": " ",
+          "start_time": 0.899,
+          "end_time": 1.059
+        },
+        {
+          "text": "electricity",
+          "start_time": 1.059,
+          "end_time": 1.679
+        },
+        {
+          "text": " ",
+          "start_time": 1.679,
+          "end_time": 1.679
+        },
+        {
+          "text": "and",
+          "start_time": 1.679,
+          "end_time": 1.799
+        },
+        {
+          "text": " ",
+          "start_time": 1.799,
+          "end_time": 1.86
+        },
+        {
+          "text": "magnetism",
+          "start_time": 1.86,
+          "end_time": 2.419
+        },
+        {
+          "text": " ",
+          "start_time": 2.419,
+          "end_time": 2.419
+        },
+        {
+          "text": "were",
+          "start_time": 2.419,
+          "end_time": 2.619
+        },
+        {
+          "text": " ",
+          "start_time": 2.619,
+          "end_time": 2.659
+        },
+        {
+          "text": "seen",
+          "start_time": 2.659,
+          "end_time": 2.819
+        },
+        {
+          "text": " ",
+          "start_time": 2.819,
+          "end_time": 2.839
+        },
+        {
+          "text": "as",
+          "start_time": 2.839,
+          "end_time": 3.059
+        },
+        {
+          "text": " ",
+          "start_time": 3.059,
+          "end_time": 3.079
+        },
+        {
+          "text": "two",
+          "start_time": 3.079,
+          "end_time": 3.299
+        },
+        {
+          "text": " ",
+          "start_time": 3.299,
+          "end_time": 3.439
+        },
+        {
+          "text": "separate",
+          "start_time": 3.439,
+          "end_time": 3.759
+        },
+        {
+          "text": " ",
+          "start_time": 3.759,
+          "end_time": 3.839
+        },
+        {
+          "text": "forces.",
+          "start_time": 3.839,
+          "end_time": 4.4
+        },
+        {
+          "text": " ",
+          "start_time": 4.4,
+          "end_time": 5.319
+        },
+        {
+          "text": "In",
+          "start_time": 5.319,
+          "end_time": 5.459
+        },
+        {
+          "text": " ",
+          "start_time": 5.459,
+          "end_time": 5.48
+        },
+        {
+          "text": "this",
+          "start_time": 5.48,
+          "end_time": 5.659
+        },
+        {
+          "text": " ",
+          "start_time": 5.659,
+          "end_time": 5.699
+        },
+        {
+          "text": "lesson,",
+          "start_time": 5.699,
+          "end_time": 6.119
+        },
+        {
+          "text": " ",
+          "start_time": 6.119,
+          "end_time": 6.219
+        },
+        {
+          "text": "we",
+          "start_time": 6.219,
+          "end_time": 6.519
+        },
+        {
+          "text": " ",
+          "start_time": 6.519,
+          "end_time": 6.519
+        },
+        {
+          "text": "will",
+          "start_time": 6.519,
+          "end_time": 6.599
+        },
+        {
+          "text": " ",
+          "start_time": 6.599,
+          "end_time": 6.679
+        },
+        {
+          "text": "explore",
+          "start_time": 6.679,
+          "end_time": 6.98
+        },
+        {
+          "text": " ",
+          "start_time": 6.98,
+          "end_time": 6.98
+        },
+        {
+          "text": "the",
+          "start_time": 6.98,
+          "end_time": 7.139
+        },
+        {
+          "text": " ",
+          "start_time": 7.139,
+          "end_time": 7.139
+        },
+        {
+          "text": "groundbreaking",
+          "start_time": 7.139,
+          "end_time": 7.819
+        },
+        {
+          "text": " ",
+          "start_time": 7.819,
+          "end_time": 7.839
+        },
+        {
+          "text": "discovery",
+          "start_time": 7.839,
+          "end_time": 8.42
+        },
+        {
+          "text": " ",
+          "start_time": 8.42,
+          "end_time": 8.42
+        },
+        {
+          "text": "that",
+          "start_time": 8.42,
+          "end_time": 8.579
+        },
+        {
+          "text": " ",
+          "start_time": 8.579,
+          "end_time": 8.639
+        },
+        {
+          "text": "linked",
+          "start_time": 8.639,
+          "end_time": 8.9
+        },
+        {
+          "text": " ",
+          "start_time": 8.9,
+          "end_time": 8.92
+        },
+        {
+          "text": "them",
+          "start_time": 8.92,
+          "end_time": 9.099
+        },
+        {
+          "text": " ",
+          "start_time": 9.099,
+          "end_time": 9.099
+        },
+        {
+          "text": "forever",
+          "start_time": 9.099,
+          "end_time": 9.64
+        },
+        {
+          "text": " ",
+          "start_time": 9.64,
+          "end_time": 10.159
+        },
+        {
+          "text": "and",
+          "start_time": 10.159,
+          "end_time": 10.319
+        },
+        {
+          "text": " ",
+          "start_time": 10.319,
+          "end_time": 10.34
+        },
+        {
+          "text": "learn",
+          "start_time": 10.34,
+          "end_time": 10.559
+        },
+        {
+          "text": " ",
+          "start_time": 10.559,
+          "end_time": 10.599
+        },
+        {
+          "text": "how",
+          "start_time": 10.599,
+          "end_time": 10.679
+        },
+        {
+          "text": " ",
+          "start_time": 10.679,
+          "end_time": 10.699
+        },
+        {
+          "text": "to",
+          "start_time": 10.699,
+          "end_time": 10.86
+        },
+        {
+          "text": " ",
+          "start_time": 10.86,
+          "end_time": 10.88
+        },
+        {
+          "text": "visualize",
+          "start_time": 10.88,
+          "end_time": 11.42
+        },
+        {
+          "text": " ",
+          "start_time": 11.42,
+          "end_time": 11.42
+        },
+        {
+          "text": "the",
+          "start_time": 11.42,
+          "end_time": 11.52
+        },
+        {
+          "text": " ",
+          "start_time": 11.52,
+          "end_time": 11.559
+        },
+        {
+          "text": "invisible",
+          "start_time": 11.559,
+          "end_time": 12.059
+        },
+        {
+          "text": " ",
+          "start_time": 12.059,
+          "end_time": 12.139
+        },
+        {
+          "text": "fields",
+          "start_time": 12.139,
+          "end_time": 12.46
+        },
+        {
+          "text": " ",
+          "start_time": 12.46,
+          "end_time": 12.46
+        },
+        {
+          "text": "they",
+          "start_time": 12.46,
+          "end_time": 12.639
+        },
+        {
+          "text": " ",
+          "start_time": 12.639,
+          "end_time": 12.659
+        },
+        {
+          "text": "create.",
+          "start_time": 12.659,
+          "end_time": 13.059
+        },
+        {
+          "text": " ",
+          "start_time": 13.059,
+          "end_time": 14.699
+        }
+      ]
+    },
+    {
+      "text": "This all changed in 1820 with Danish scientist Hans Christian Oersted. ",
+      "start_time": 14.699,
+      "end_time": 20.439,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "This",
+          "start_time": 14.699,
+          "end_time": 14.88
+        },
+        {
+          "text": " ",
+          "start_time": 14.88,
+          "end_time": 14.88
+        },
+        {
+          "text": "all",
+          "start_time": 14.88,
+          "end_time": 15.039
+        },
+        {
+          "text": " ",
+          "start_time": 15.039,
+          "end_time": 15.119
+        },
+        {
+          "text": "changed",
+          "start_time": 15.119,
+          "end_time": 15.4
+        },
+        {
+          "text": " ",
+          "start_time": 15.4,
+          "end_time": 15.42
+        },
+        {
+          "text": "in",
+          "start_time": 15.42,
+          "end_time": 15.579
+        },
+        {
+          "text": " ",
+          "start_time": 15.579,
+          "end_time": 15.579
+        },
+        {
+          "text": "1820",
+          "start_time": 15.579,
+          "end_time": 16.34
+        },
+        {
+          "text": " ",
+          "start_time": 16.34,
+          "end_time": 16.359
+        },
+        {
+          "text": "with",
+          "start_time": 16.359,
+          "end_time": 16.579
+        },
+        {
+          "text": " ",
+          "start_time": 16.579,
+          "end_time": 16.639
+        },
+        {
+          "text": "Danish",
+          "start_time": 16.639,
+          "end_time": 17.04
+        },
+        {
+          "text": " ",
+          "start_time": 17.04,
+          "end_time": 17.059
+        },
+        {
+          "text": "scientist",
+          "start_time": 17.059,
+          "end_time": 17.62
+        },
+        {
+          "text": " ",
+          "start_time": 17.62,
+          "end_time": 17.899
+        },
+        {
+          "text": "Hans",
+          "start_time": 17.899,
+          "end_time": 18.26
+        },
+        {
+          "text": " ",
+          "start_time": 18.26,
+          "end_time": 18.279
+        },
+        {
+          "text": "Christian",
+          "start_time": 18.279,
+          "end_time": 18.639
+        },
+        {
+          "text": " ",
+          "start_time": 18.639,
+          "end_time": 18.659
+        },
+        {
+          "text": "Oersted.",
+          "start_time": 18.659,
+          "end_time": 19.259
+        },
+        {
+          "text": " ",
+          "start_time": 19.259,
+          "end_time": 20.439
+        }
+      ]
+    },
+    {
+      "text": "During a lecture, he made an accidental discovery that would change the world. He used a simple setup, a straight wire connected to a battery placed directly over a compass. Initially, with the circuit open, nothing happens. But the moment he closed the switch, allowing current to flow through the wire, the compass needle moved. ",
+      "start_time": 20.439,
+      "end_time": 40.279,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "During",
+          "start_time": 20.439,
+          "end_time": 20.68
+        },
+        {
+          "text": " ",
+          "start_time": 20.68,
+          "end_time": 20.699
+        },
+        {
+          "text": "a",
+          "start_time": 20.699,
+          "end_time": 20.759
+        },
+        {
+          "text": " ",
+          "start_time": 20.759,
+          "end_time": 20.779
+        },
+        {
+          "text": "lecture,",
+          "start_time": 20.779,
+          "end_time": 21.139
+        },
+        {
+          "text": " ",
+          "start_time": 21.139,
+          "end_time": 21.159
+        },
+        {
+          "text": "he",
+          "start_time": 21.159,
+          "end_time": 21.299
+        },
+        {
+          "text": " ",
+          "start_time": 21.299,
+          "end_time": 21.319
+        },
+        {
+          "text": "made",
+          "start_time": 21.319,
+          "end_time": 21.46
+        },
+        {
+          "text": " ",
+          "start_time": 21.46,
+          "end_time": 21.479
+        },
+        {
+          "text": "an",
+          "start_time": 21.479,
+          "end_time": 21.68
+        },
+        {
+          "text": " ",
+          "start_time": 21.68,
+          "end_time": 21.68
+        },
+        {
+          "text": "accidental",
+          "start_time": 21.68,
+          "end_time": 22.259
+        },
+        {
+          "text": " ",
+          "start_time": 22.259,
+          "end_time": 22.279
+        },
+        {
+          "text": "discovery",
+          "start_time": 22.279,
+          "end_time": 22.879
+        },
+        {
+          "text": " ",
+          "start_time": 22.879,
+          "end_time": 22.879
+        },
+        {
+          "text": "that",
+          "start_time": 22.879,
+          "end_time": 23.0
+        },
+        {
+          "text": " ",
+          "start_time": 23.0,
+          "end_time": 23.039
+        },
+        {
+          "text": "would",
+          "start_time": 23.039,
+          "end_time": 23.18
+        },
+        {
+          "text": " ",
+          "start_time": 23.18,
+          "end_time": 23.219
+        },
+        {
+          "text": "change",
+          "start_time": 23.219,
+          "end_time": 23.559
+        },
+        {
+          "text": " ",
+          "start_time": 23.559,
+          "end_time": 23.6
+        },
+        {
+          "text": "the",
+          "start_time": 23.6,
+          "end_time": 23.679
+        },
+        {
+          "text": " ",
+          "start_time": 23.679,
+          "end_time": 23.719
+        },
+        {
+          "text": "world.",
+          "start_time": 23.719,
+          "end_time": 24.139
+        },
+        {
+          "text": " ",
+          "start_time": 24.139,
+          "end_time": 24.819
+        },
+        {
+          "text": "He",
+          "start_time": 24.819,
+          "end_time": 24.959
+        },
+        {
+          "text": " ",
+          "start_time": 24.959,
+          "end_time": 25.0
+        },
+        {
+          "text": "used",
+          "start_time": 25.0,
+          "end_time": 25.159
+        },
+        {
+          "text": " ",
+          "start_time": 25.159,
+          "end_time": 25.199
+        },
+        {
+          "text": "a",
+          "start_time": 25.199,
+          "end_time": 25.259
+        },
+        {
+          "text": " ",
+          "start_time": 25.259,
+          "end_time": 25.299
+        },
+        {
+          "text": "simple",
+          "start_time": 25.299,
+          "end_time": 25.519
+        },
+        {
+          "text": " ",
+          "start_time": 25.519,
+          "end_time": 25.599
+        },
+        {
+          "text": "setup,",
+          "start_time": 25.599,
+          "end_time": 25.979
+        },
+        {
+          "text": " ",
+          "start_time": 25.979,
+          "end_time": 26.439
+        },
+        {
+          "text": "a",
+          "start_time": 26.439,
+          "end_time": 26.539
+        },
+        {
+          "text": " ",
+          "start_time": 26.539,
+          "end_time": 26.559
+        },
+        {
+          "text": "straight",
+          "start_time": 26.559,
+          "end_time": 26.879
+        },
+        {
+          "text": " ",
+          "start_time": 26.879,
+          "end_time": 26.939
+        },
+        {
+          "text": "wire",
+          "start_time": 26.939,
+          "end_time": 27.18
+        },
+        {
+          "text": " ",
+          "start_time": 27.18,
+          "end_time": 27.26
+        },
+        {
+          "text": "connected",
+          "start_time": 27.26,
+          "end_time": 27.599
+        },
+        {
+          "text": " ",
+          "start_time": 27.599,
+          "end_time": 27.619
+        },
+        {
+          "text": "to",
+          "start_time": 27.619,
+          "end_time": 27.7
+        },
+        {
+          "text": " ",
+          "start_time": 27.7,
+          "end_time": 27.719
+        },
+        {
+          "text": "a",
+          "start_time": 27.719,
+          "end_time": 27.799
+        },
+        {
+          "text": " ",
+          "start_time": 27.799,
+          "end_time": 27.819
+        },
+        {
+          "text": "battery",
+          "start_time": 27.819,
+          "end_time": 28.18
+        },
+        {
+          "text": " ",
+          "start_time": 28.18,
+          "end_time": 28.239
+        },
+        {
+          "text": "placed",
+          "start_time": 28.239,
+          "end_time": 28.519
+        },
+        {
+          "text": " ",
+          "start_time": 28.519,
+          "end_time": 28.659
+        },
+        {
+          "text": "directly",
+          "start_time": 28.659,
+          "end_time": 29.179
+        },
+        {
+          "text": " ",
+          "start_time": 29.179,
+          "end_time": 29.199
+        },
+        {
+          "text": "over",
+          "start_time": 29.199,
+          "end_time": 29.379
+        },
+        {
+          "text": " ",
+          "start_time": 29.379,
+          "end_time": 29.379
+        },
+        {
+          "text": "a",
+          "start_time": 29.379,
+          "end_time": 29.479
+        },
+        {
+          "text": " ",
+          "start_time": 29.479,
+          "end_time": 29.5
+        },
+        {
+          "text": "compass.",
+          "start_time": 29.5,
+          "end_time": 29.979
+        },
+        {
+          "text": " ",
+          "start_time": 29.979,
+          "end_time": 30.92
+        },
+        {
+          "text": "Initially,",
+          "start_time": 30.92,
+          "end_time": 31.439
+        },
+        {
+          "text": " ",
+          "start_time": 31.439,
+          "end_time": 31.439
+        },
+        {
+          "text": "with",
+          "start_time": 31.439,
+          "end_time": 31.579
+        },
+        {
+          "text": " ",
+          "start_time": 31.579,
+          "end_time": 31.599
+        },
+        {
+          "text": "the",
+          "start_time": 31.599,
+          "end_time": 31.68
+        },
+        {
+          "text": " ",
+          "start_time": 31.68,
+          "end_time": 31.76
+        },
+        {
+          "text": "circuit",
+          "start_time": 31.76,
+          "end_time": 32.08
+        },
+        {
+          "text": " ",
+          "start_time": 32.08,
+          "end_time": 32.119
+        },
+        {
+          "text": "open,",
+          "start_time": 32.119,
+          "end_time": 32.559
+        },
+        {
+          "text": " ",
+          "start_time": 32.559,
+          "end_time": 32.779
+        },
+        {
+          "text": "nothing",
+          "start_time": 32.779,
+          "end_time": 33.099
+        },
+        {
+          "text": " ",
+          "start_time": 33.099,
+          "end_time": 33.119
+        },
+        {
+          "text": "happens.",
+          "start_time": 33.119,
+          "end_time": 33.679
+        },
+        {
+          "text": " ",
+          "start_time": 33.679,
+          "end_time": 34.18
+        },
+        {
+          "text": "But",
+          "start_time": 34.18,
+          "end_time": 34.259
+        },
+        {
+          "text": " ",
+          "start_time": 34.259,
+          "end_time": 34.279
+        },
+        {
+          "text": "the",
+          "start_time": 34.279,
+          "end_time": 34.36
+        },
+        {
+          "text": " ",
+          "start_time": 34.36,
+          "end_time": 34.419
+        },
+        {
+          "text": "moment",
+          "start_time": 34.419,
+          "end_time": 34.619
+        },
+        {
+          "text": " ",
+          "start_time": 34.619,
+          "end_time": 34.619
+        },
+        {
+          "text": "he",
+          "start_time": 34.619,
+          "end_time": 34.759
+        },
+        {
+          "text": " ",
+          "start_time": 34.759,
+          "end_time": 34.759
+        },
+        {
+          "text": "closed",
+          "start_time": 34.759,
+          "end_time": 35.06
+        },
+        {
+          "text": " ",
+          "start_time": 35.06,
+          "end_time": 35.079
+        },
+        {
+          "text": "the",
+          "start_time": 35.079,
+          "end_time": 35.139
+        },
+        {
+          "text": " ",
+          "start_time": 35.139,
+          "end_time": 35.18
+        },
+        {
+          "text": "switch,",
+          "start_time": 35.18,
+          "end_time": 35.6
+        },
+        {
+          "text": " ",
+          "start_time": 35.6,
+          "end_time": 35.659
+        },
+        {
+          "text": "allowing",
+          "start_time": 35.659,
+          "end_time": 36.04
+        },
+        {
+          "text": " ",
+          "start_time": 36.04,
+          "end_time": 36.119
+        },
+        {
+          "text": "current",
+          "start_time": 36.119,
+          "end_time": 36.4
+        },
+        {
+          "text": " ",
+          "start_time": 36.4,
+          "end_time": 36.419
+        },
+        {
+          "text": "to",
+          "start_time": 36.419,
+          "end_time": 36.52
+        },
+        {
+          "text": " ",
+          "start_time": 36.52,
+          "end_time": 36.54
+        },
+        {
+          "text": "flow",
+          "start_time": 36.54,
+          "end_time": 36.7
+        },
+        {
+          "text": " ",
+          "start_time": 36.7,
+          "end_time": 36.739
+        },
+        {
+          "text": "through",
+          "start_time": 36.739,
+          "end_time": 36.92
+        },
+        {
+          "text": " ",
+          "start_time": 36.92,
+          "end_time": 36.939
+        },
+        {
+          "text": "the",
+          "start_time": 36.939,
+          "end_time": 37.0
+        },
+        {
+          "text": " ",
+          "start_time": 37.0,
+          "end_time": 37.059
+        },
+        {
+          "text": "wire,",
+          "start_time": 37.059,
+          "end_time": 37.46
+        },
+        {
+          "text": " ",
+          "start_time": 37.46,
+          "end_time": 37.799
+        },
+        {
+          "text": "the",
+          "start_time": 37.799,
+          "end_time": 37.88
+        },
+        {
+          "text": " ",
+          "start_time": 37.88,
+          "end_time": 37.959
+        },
+        {
+          "text": "compass",
+          "start_time": 37.959,
+          "end_time": 38.299
+        },
+        {
+          "text": " ",
+          "start_time": 38.299,
+          "end_time": 38.379
+        },
+        {
+          "text": "needle",
+          "start_time": 38.379,
+          "end_time": 38.599
+        },
+        {
+          "text": " ",
+          "start_time": 38.599,
+          "end_time": 38.7
+        },
+        {
+          "text": "moved.",
+          "start_time": 38.7,
+          "end_time": 39.119
+        },
+        {
+          "text": " ",
+          "start_time": 39.119,
+          "end_time": 40.279
+        }
+      ]
+    },
+    {
+      "text": "This proved that an electric current creates a magnetic effect. This region of influence created by the current is called a magnetic field. It's an invisible area of force that surrounds any magnet or current carrying wire. ",
+      "start_time": 40.279,
+      "end_time": 56.159,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "This",
+          "start_time": 40.279,
+          "end_time": 40.499
+        },
+        {
+          "text": " ",
+          "start_time": 40.499,
+          "end_time": 40.559
+        },
+        {
+          "text": "proved",
+          "start_time": 40.559,
+          "end_time": 40.86
+        },
+        {
+          "text": " ",
+          "start_time": 40.86,
+          "end_time": 40.879
+        },
+        {
+          "text": "that",
+          "start_time": 40.879,
+          "end_time": 40.979
+        },
+        {
+          "text": " ",
+          "start_time": 40.979,
+          "end_time": 41.0
+        },
+        {
+          "text": "an",
+          "start_time": 41.0,
+          "end_time": 41.08
+        },
+        {
+          "text": " ",
+          "start_time": 41.08,
+          "end_time": 41.119
+        },
+        {
+          "text": "electric",
+          "start_time": 41.119,
+          "end_time": 41.579
+        },
+        {
+          "text": " ",
+          "start_time": 41.579,
+          "end_time": 41.619
+        },
+        {
+          "text": "current",
+          "start_time": 41.619,
+          "end_time": 41.979
+        },
+        {
+          "text": " ",
+          "start_time": 41.979,
+          "end_time": 42.02
+        },
+        {
+          "text": "creates",
+          "start_time": 42.02,
+          "end_time": 42.279
+        },
+        {
+          "text": " ",
+          "start_time": 42.279,
+          "end_time": 42.36
+        },
+        {
+          "text": "a",
+          "start_time": 42.36,
+          "end_time": 42.42
+        },
+        {
+          "text": " ",
+          "start_time": 42.42,
+          "end_time": 42.54
+        },
+        {
+          "text": "magnetic",
+          "start_time": 42.54,
+          "end_time": 43.099
+        },
+        {
+          "text": " ",
+          "start_time": 43.099,
+          "end_time": 43.139
+        },
+        {
+          "text": "effect.",
+          "start_time": 43.139,
+          "end_time": 43.699
+        },
+        {
+          "text": " ",
+          "start_time": 43.699,
+          "end_time": 44.539
+        },
+        {
+          "text": "This",
+          "start_time": 44.539,
+          "end_time": 44.72
+        },
+        {
+          "text": " ",
+          "start_time": 44.72,
+          "end_time": 44.779
+        },
+        {
+          "text": "region",
+          "start_time": 44.779,
+          "end_time": 45.04
+        },
+        {
+          "text": " ",
+          "start_time": 45.04,
+          "end_time": 45.059
+        },
+        {
+          "text": "of",
+          "start_time": 45.059,
+          "end_time": 45.159
+        },
+        {
+          "text": " ",
+          "start_time": 45.159,
+          "end_time": 45.219
+        },
+        {
+          "text": "influence",
+          "start_time": 45.219,
+          "end_time": 45.7
+        },
+        {
+          "text": " ",
+          "start_time": 45.7,
+          "end_time": 45.759
+        },
+        {
+          "text": "created",
+          "start_time": 45.759,
+          "end_time": 46.079
+        },
+        {
+          "text": " ",
+          "start_time": 46.079,
+          "end_time": 46.139
+        },
+        {
+          "text": "by",
+          "start_time": 46.139,
+          "end_time": 46.299
+        },
+        {
+          "text": " ",
+          "start_time": 46.299,
+          "end_time": 46.34
+        },
+        {
+          "text": "the",
+          "start_time": 46.34,
+          "end_time": 46.459
+        },
+        {
+          "text": " ",
+          "start_time": 46.459,
+          "end_time": 46.5
+        },
+        {
+          "text": "current",
+          "start_time": 46.5,
+          "end_time": 46.859
+        },
+        {
+          "text": " ",
+          "start_time": 46.859,
+          "end_time": 46.86
+        },
+        {
+          "text": "is",
+          "start_time": 46.86,
+          "end_time": 47.0
+        },
+        {
+          "text": " ",
+          "start_time": 47.0,
+          "end_time": 47.059
+        },
+        {
+          "text": "called",
+          "start_time": 47.059,
+          "end_time": 47.28
+        },
+        {
+          "text": " ",
+          "start_time": 47.28,
+          "end_time": 47.379
+        },
+        {
+          "text": "a",
+          "start_time": 47.379,
+          "end_time": 47.459
+        },
+        {
+          "text": " ",
+          "start_time": 47.459,
+          "end_time": 47.539
+        },
+        {
+          "text": "magnetic",
+          "start_time": 47.539,
+          "end_time": 48.159
+        },
+        {
+          "text": " ",
+          "start_time": 48.159,
+          "end_time": 48.279
+        },
+        {
+          "text": "field.",
+          "start_time": 48.279,
+          "end_time": 48.78
+        },
+        {
+          "text": " ",
+          "start_time": 48.78,
+          "end_time": 49.539
+        },
+        {
+          "text": "It's",
+          "start_time": 49.539,
+          "end_time": 49.68
+        },
+        {
+          "text": " ",
+          "start_time": 49.68,
+          "end_time": 49.68
+        },
+        {
+          "text": "an",
+          "start_time": 49.68,
+          "end_time": 49.76
+        },
+        {
+          "text": " ",
+          "start_time": 49.76,
+          "end_time": 49.779
+        },
+        {
+          "text": "invisible",
+          "start_time": 49.779,
+          "end_time": 50.36
+        },
+        {
+          "text": " ",
+          "start_time": 50.36,
+          "end_time": 50.439
+        },
+        {
+          "text": "area",
+          "start_time": 50.439,
+          "end_time": 50.799
+        },
+        {
+          "text": " ",
+          "start_time": 50.799,
+          "end_time": 50.86
+        },
+        {
+          "text": "of",
+          "start_time": 50.86,
+          "end_time": 50.959
+        },
+        {
+          "text": " ",
+          "start_time": 50.959,
+          "end_time": 51.099
+        },
+        {
+          "text": "force",
+          "start_time": 51.099,
+          "end_time": 51.459
+        },
+        {
+          "text": " ",
+          "start_time": 51.459,
+          "end_time": 51.459
+        },
+        {
+          "text": "that",
+          "start_time": 51.459,
+          "end_time": 51.579
+        },
+        {
+          "text": " ",
+          "start_time": 51.579,
+          "end_time": 51.659
+        },
+        {
+          "text": "surrounds",
+          "start_time": 51.659,
+          "end_time": 52.079
+        },
+        {
+          "text": " ",
+          "start_time": 52.079,
+          "end_time": 52.319
+        },
+        {
+          "text": "any",
+          "start_time": 52.319,
+          "end_time": 52.539
+        },
+        {
+          "text": " ",
+          "start_time": 52.539,
+          "end_time": 52.619
+        },
+        {
+          "text": "magnet",
+          "start_time": 52.619,
+          "end_time": 53.119
+        },
+        {
+          "text": " ",
+          "start_time": 53.119,
+          "end_time": 53.139
+        },
+        {
+          "text": "or",
+          "start_time": 53.139,
+          "end_time": 53.299
+        },
+        {
+          "text": " ",
+          "start_time": 53.299,
+          "end_time": 53.379
+        },
+        {
+          "text": "current",
+          "start_time": 53.379,
+          "end_time": 53.659
+        },
+        {
+          "text": " ",
+          "start_time": 53.659,
+          "end_time": 53.719
+        },
+        {
+          "text": "carrying",
+          "start_time": 53.719,
+          "end_time": 54.119
+        },
+        {
+          "text": " ",
+          "start_time": 54.119,
+          "end_time": 54.199
+        },
+        {
+          "text": "wire.",
+          "start_time": 54.199,
+          "end_time": 54.639
+        },
+        {
+          "text": " ",
+          "start_time": 54.639,
+          "end_time": 56.159
+        }
+      ]
+    },
+    {
+      "text": "To understand these invisible fields, we use a tool called magnetic field lines. These are imaginary lines that show us the structure of the magnetic field. ",
+      "start_time": 56.159,
+      "end_time": 66.619,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "To",
+          "start_time": 56.159,
+          "end_time": 56.339
+        },
+        {
+          "text": " ",
+          "start_time": 56.339,
+          "end_time": 56.379
+        },
+        {
+          "text": "understand",
+          "start_time": 56.379,
+          "end_time": 56.819
+        },
+        {
+          "text": " ",
+          "start_time": 56.819,
+          "end_time": 56.84
+        },
+        {
+          "text": "these",
+          "start_time": 56.84,
+          "end_time": 57.0
+        },
+        {
+          "text": " ",
+          "start_time": 57.0,
+          "end_time": 57.039
+        },
+        {
+          "text": "invisible",
+          "start_time": 57.039,
+          "end_time": 57.5
+        },
+        {
+          "text": " ",
+          "start_time": 57.5,
+          "end_time": 57.619
+        },
+        {
+          "text": "fields,",
+          "start_time": 57.619,
+          "end_time": 58.06
+        },
+        {
+          "text": " ",
+          "start_time": 58.06,
+          "end_time": 58.079
+        },
+        {
+          "text": "we",
+          "start_time": 58.079,
+          "end_time": 58.18
+        },
+        {
+          "text": " ",
+          "start_time": 58.18,
+          "end_time": 58.219
+        },
+        {
+          "text": "use",
+          "start_time": 58.219,
+          "end_time": 58.34
+        },
+        {
+          "text": " ",
+          "start_time": 58.34,
+          "end_time": 58.359
+        },
+        {
+          "text": "a",
+          "start_time": 58.359,
+          "end_time": 58.439
+        },
+        {
+          "text": " ",
+          "start_time": 58.439,
+          "end_time": 58.459
+        },
+        {
+          "text": "tool",
+          "start_time": 58.459,
+          "end_time": 58.7
+        },
+        {
+          "text": " ",
+          "start_time": 58.7,
+          "end_time": 58.799
+        },
+        {
+          "text": "called",
+          "start_time": 58.799,
+          "end_time": 59.08
+        },
+        {
+          "text": " ",
+          "start_time": 59.08,
+          "end_time": 59.299
+        },
+        {
+          "text": "magnetic",
+          "start_time": 59.299,
+          "end_time": 60.079
+        },
+        {
+          "text": " ",
+          "start_time": 60.079,
+          "end_time": 60.159
+        },
+        {
+          "text": "field",
+          "start_time": 60.159,
+          "end_time": 60.499
+        },
+        {
+          "text": " ",
+          "start_time": 60.499,
+          "end_time": 60.559
+        },
+        {
+          "text": "lines.",
+          "start_time": 60.559,
+          "end_time": 61.019
+        },
+        {
+          "text": " ",
+          "start_time": 61.019,
+          "end_time": 61.779
+        },
+        {
+          "text": "These",
+          "start_time": 61.779,
+          "end_time": 61.959
+        },
+        {
+          "text": " ",
+          "start_time": 61.959,
+          "end_time": 62.0
+        },
+        {
+          "text": "are",
+          "start_time": 62.0,
+          "end_time": 62.079
+        },
+        {
+          "text": " ",
+          "start_time": 62.079,
+          "end_time": 62.099
+        },
+        {
+          "text": "imaginary",
+          "start_time": 62.099,
+          "end_time": 62.76
+        },
+        {
+          "text": " ",
+          "start_time": 62.76,
+          "end_time": 62.819
+        },
+        {
+          "text": "lines",
+          "start_time": 62.819,
+          "end_time": 63.08
+        },
+        {
+          "text": " ",
+          "start_time": 63.08,
+          "end_time": 63.099
+        },
+        {
+          "text": "that",
+          "start_time": 63.099,
+          "end_time": 63.2
+        },
+        {
+          "text": " ",
+          "start_time": 63.2,
+          "end_time": 63.279
+        },
+        {
+          "text": "show",
+          "start_time": 63.279,
+          "end_time": 63.419
+        },
+        {
+          "text": " ",
+          "start_time": 63.419,
+          "end_time": 63.439
+        },
+        {
+          "text": "us",
+          "start_time": 63.439,
+          "end_time": 63.559
+        },
+        {
+          "text": " ",
+          "start_time": 63.559,
+          "end_time": 63.579
+        },
+        {
+          "text": "the",
+          "start_time": 63.579,
+          "end_time": 63.659
+        },
+        {
+          "text": " ",
+          "start_time": 63.659,
+          "end_time": 63.719
+        },
+        {
+          "text": "structure",
+          "start_time": 63.719,
+          "end_time": 64.139
+        },
+        {
+          "text": " ",
+          "start_time": 64.139,
+          "end_time": 64.159
+        },
+        {
+          "text": "of",
+          "start_time": 64.159,
+          "end_time": 64.259
+        },
+        {
+          "text": " ",
+          "start_time": 64.259,
+          "end_time": 64.279
+        },
+        {
+          "text": "the",
+          "start_time": 64.279,
+          "end_time": 64.319
+        },
+        {
+          "text": " ",
+          "start_time": 64.319,
+          "end_time": 64.379
+        },
+        {
+          "text": "magnetic",
+          "start_time": 64.379,
+          "end_time": 64.799
+        },
+        {
+          "text": " ",
+          "start_time": 64.799,
+          "end_time": 64.879
+        },
+        {
+          "text": "field.",
+          "start_time": 64.879,
+          "end_time": 65.26
+        },
+        {
+          "text": " ",
+          "start_time": 65.26,
+          "end_time": 66.619
+        }
+      ]
+    },
+    {
+      "text": "Field lines have a specific direction. By convention, they always point away from the magnet's north pole and loop around to enter the south pole. The closeness of the lines tells us about the field's strength. Where the lines are crowded together, like near the poles, the magnetic field is very strong. A crucial rule is that magnetic field lines can never cross each other. ",
+      "start_time": 66.619,
+      "end_time": 90.0,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "Field",
+          "start_time": 66.619,
+          "end_time": 66.9
+        },
+        {
+          "text": " ",
+          "start_time": 66.9,
+          "end_time": 66.959
+        },
+        {
+          "text": "lines",
+          "start_time": 66.959,
+          "end_time": 67.219
+        },
+        {
+          "text": " ",
+          "start_time": 67.219,
+          "end_time": 67.239
+        },
+        {
+          "text": "have",
+          "start_time": 67.239,
+          "end_time": 67.36
+        },
+        {
+          "text": " ",
+          "start_time": 67.36,
+          "end_time": 67.379
+        },
+        {
+          "text": "a",
+          "start_time": 67.379,
+          "end_time": 67.439
+        },
+        {
+          "text": " ",
+          "start_time": 67.439,
+          "end_time": 67.479
+        },
+        {
+          "text": "specific",
+          "start_time": 67.479,
+          "end_time": 67.959
+        },
+        {
+          "text": " ",
+          "start_time": 67.959,
+          "end_time": 68.0
+        },
+        {
+          "text": "direction.",
+          "start_time": 68.0,
+          "end_time": 68.659
+        },
+        {
+          "text": " ",
+          "start_time": 68.659,
+          "end_time": 69.319
+        },
+        {
+          "text": "By",
+          "start_time": 69.319,
+          "end_time": 69.5
+        },
+        {
+          "text": " ",
+          "start_time": 69.5,
+          "end_time": 69.559
+        },
+        {
+          "text": "convention,",
+          "start_time": 69.559,
+          "end_time": 70.099
+        },
+        {
+          "text": " ",
+          "start_time": 70.099,
+          "end_time": 70.099
+        },
+        {
+          "text": "they",
+          "start_time": 70.099,
+          "end_time": 70.3
+        },
+        {
+          "text": " ",
+          "start_time": 70.3,
+          "end_time": 70.36
+        },
+        {
+          "text": "always",
+          "start_time": 70.36,
+          "end_time": 70.66
+        },
+        {
+          "text": " ",
+          "start_time": 70.66,
+          "end_time": 70.739
+        },
+        {
+          "text": "point",
+          "start_time": 70.739,
+          "end_time": 70.919
+        },
+        {
+          "text": " ",
+          "start_time": 70.919,
+          "end_time": 70.959
+        },
+        {
+          "text": "away",
+          "start_time": 70.959,
+          "end_time": 71.18
+        },
+        {
+          "text": " ",
+          "start_time": 71.18,
+          "end_time": 71.239
+        },
+        {
+          "text": "from",
+          "start_time": 71.239,
+          "end_time": 71.359
+        },
+        {
+          "text": " ",
+          "start_time": 71.359,
+          "end_time": 71.36
+        },
+        {
+          "text": "the",
+          "start_time": 71.36,
+          "end_time": 71.439
+        },
+        {
+          "text": " ",
+          "start_time": 71.439,
+          "end_time": 71.5
+        },
+        {
+          "text": "magnet's",
+          "start_time": 71.5,
+          "end_time": 71.919
+        },
+        {
+          "text": " ",
+          "start_time": 71.919,
+          "end_time": 71.979
+        },
+        {
+          "text": "north",
+          "start_time": 71.979,
+          "end_time": 72.239
+        },
+        {
+          "text": " ",
+          "start_time": 72.239,
+          "end_time": 72.339
+        },
+        {
+          "text": "pole",
+          "start_time": 72.339,
+          "end_time": 72.639
+        },
+        {
+          "text": " ",
+          "start_time": 72.639,
+          "end_time": 72.659
+        },
+        {
+          "text": "and",
+          "start_time": 72.659,
+          "end_time": 72.779
+        },
+        {
+          "text": " ",
+          "start_time": 72.779,
+          "end_time": 72.86
+        },
+        {
+          "text": "loop",
+          "start_time": 72.86,
+          "end_time": 73.079
+        },
+        {
+          "text": " ",
+          "start_time": 73.079,
+          "end_time": 73.099
+        },
+        {
+          "text": "around",
+          "start_time": 73.099,
+          "end_time": 73.419
+        },
+        {
+          "text": " ",
+          "start_time": 73.419,
+          "end_time": 73.439
+        },
+        {
+          "text": "to",
+          "start_time": 73.439,
+          "end_time": 73.599
+        },
+        {
+          "text": " ",
+          "start_time": 73.599,
+          "end_time": 73.619
+        },
+        {
+          "text": "enter",
+          "start_time": 73.619,
+          "end_time": 73.879
+        },
+        {
+          "text": " ",
+          "start_time": 73.879,
+          "end_time": 73.9
+        },
+        {
+          "text": "the",
+          "start_time": 73.9,
+          "end_time": 73.979
+        },
+        {
+          "text": " ",
+          "start_time": 73.979,
+          "end_time": 74.059
+        },
+        {
+          "text": "south",
+          "start_time": 74.059,
+          "end_time": 74.34
+        },
+        {
+          "text": " ",
+          "start_time": 74.34,
+          "end_time": 74.419
+        },
+        {
+          "text": "pole.",
+          "start_time": 74.419,
+          "end_time": 74.759
+        },
+        {
+          "text": " ",
+          "start_time": 74.759,
+          "end_time": 75.599
+        },
+        {
+          "text": "The",
+          "start_time": 75.599,
+          "end_time": 75.72
+        },
+        {
+          "text": " ",
+          "start_time": 75.72,
+          "end_time": 75.759
+        },
+        {
+          "text": "closeness",
+          "start_time": 75.759,
+          "end_time": 76.339
+        },
+        {
+          "text": " ",
+          "start_time": 76.339,
+          "end_time": 76.36
+        },
+        {
+          "text": "of",
+          "start_time": 76.36,
+          "end_time": 76.479
+        },
+        {
+          "text": " ",
+          "start_time": 76.479,
+          "end_time": 76.5
+        },
+        {
+          "text": "the",
+          "start_time": 76.5,
+          "end_time": 76.559
+        },
+        {
+          "text": " ",
+          "start_time": 76.559,
+          "end_time": 76.639
+        },
+        {
+          "text": "lines",
+          "start_time": 76.639,
+          "end_time": 76.979
+        },
+        {
+          "text": " ",
+          "start_time": 76.979,
+          "end_time": 77.0
+        },
+        {
+          "text": "tells",
+          "start_time": 77.0,
+          "end_time": 77.239
+        },
+        {
+          "text": " ",
+          "start_time": 77.239,
+          "end_time": 77.279
+        },
+        {
+          "text": "us",
+          "start_time": 77.279,
+          "end_time": 77.399
+        },
+        {
+          "text": " ",
+          "start_time": 77.399,
+          "end_time": 77.439
+        },
+        {
+          "text": "about",
+          "start_time": 77.439,
+          "end_time": 77.599
+        },
+        {
+          "text": " ",
+          "start_time": 77.599,
+          "end_time": 77.599
+        },
+        {
+          "text": "the",
+          "start_time": 77.599,
+          "end_time": 77.719
+        },
+        {
+          "text": " ",
+          "start_time": 77.719,
+          "end_time": 77.799
+        },
+        {
+          "text": "field's",
+          "start_time": 77.799,
+          "end_time": 78.12
+        },
+        {
+          "text": " ",
+          "start_time": 78.12,
+          "end_time": 78.139
+        },
+        {
+          "text": "strength.",
+          "start_time": 78.139,
+          "end_time": 78.68
+        },
+        {
+          "text": " ",
+          "start_time": 78.68,
+          "end_time": 79.439
+        },
+        {
+          "text": "Where",
+          "start_time": 79.439,
+          "end_time": 79.58
+        },
+        {
+          "text": " ",
+          "start_time": 79.58,
+          "end_time": 79.599
+        },
+        {
+          "text": "the",
+          "start_time": 79.599,
+          "end_time": 79.68
+        },
+        {
+          "text": " ",
+          "start_time": 79.68,
+          "end_time": 79.739
+        },
+        {
+          "text": "lines",
+          "start_time": 79.739,
+          "end_time": 80.019
+        },
+        {
+          "text": " ",
+          "start_time": 80.019,
+          "end_time": 80.04
+        },
+        {
+          "text": "are",
+          "start_time": 80.04,
+          "end_time": 80.159
+        },
+        {
+          "text": " ",
+          "start_time": 80.159,
+          "end_time": 80.159
+        },
+        {
+          "text": "crowded",
+          "start_time": 80.159,
+          "end_time": 80.5
+        },
+        {
+          "text": " ",
+          "start_time": 80.5,
+          "end_time": 80.5
+        },
+        {
+          "text": "together,",
+          "start_time": 80.5,
+          "end_time": 80.959
+        },
+        {
+          "text": " ",
+          "start_time": 80.959,
+          "end_time": 80.959
+        },
+        {
+          "text": "like",
+          "start_time": 80.959,
+          "end_time": 81.12
+        },
+        {
+          "text": " ",
+          "start_time": 81.12,
+          "end_time": 81.139
+        },
+        {
+          "text": "near",
+          "start_time": 81.139,
+          "end_time": 81.299
+        },
+        {
+          "text": " ",
+          "start_time": 81.299,
+          "end_time": 81.319
+        },
+        {
+          "text": "the",
+          "start_time": 81.319,
+          "end_time": 81.379
+        },
+        {
+          "text": " ",
+          "start_time": 81.379,
+          "end_time": 81.479
+        },
+        {
+          "text": "poles,",
+          "start_time": 81.479,
+          "end_time": 81.919
+        },
+        {
+          "text": " ",
+          "start_time": 81.919,
+          "end_time": 81.919
+        },
+        {
+          "text": "the",
+          "start_time": 81.919,
+          "end_time": 82.019
+        },
+        {
+          "text": " ",
+          "start_time": 82.019,
+          "end_time": 82.04
+        },
+        {
+          "text": "magnetic",
+          "start_time": 82.04,
+          "end_time": 82.519
+        },
+        {
+          "text": " ",
+          "start_time": 82.519,
+          "end_time": 82.619
+        },
+        {
+          "text": "field",
+          "start_time": 82.619,
+          "end_time": 82.919
+        },
+        {
+          "text": " ",
+          "start_time": 82.919,
+          "end_time": 82.939
+        },
+        {
+          "text": "is",
+          "start_time": 82.939,
+          "end_time": 83.08
+        },
+        {
+          "text": " ",
+          "start_time": 83.08,
+          "end_time": 83.279
+        },
+        {
+          "text": "very",
+          "start_time": 83.279,
+          "end_time": 83.579
+        },
+        {
+          "text": " ",
+          "start_time": 83.579,
+          "end_time": 83.68
+        },
+        {
+          "text": "strong.",
+          "start_time": 83.68,
+          "end_time": 84.18
+        },
+        {
+          "text": " ",
+          "start_time": 84.18,
+          "end_time": 85.04
+        },
+        {
+          "text": "A",
+          "start_time": 85.04,
+          "end_time": 85.16
+        },
+        {
+          "text": " ",
+          "start_time": 85.16,
+          "end_time": 85.199
+        },
+        {
+          "text": "crucial",
+          "start_time": 85.199,
+          "end_time": 85.58
+        },
+        {
+          "text": " ",
+          "start_time": 85.58,
+          "end_time": 85.68
+        },
+        {
+          "text": "rule",
+          "start_time": 85.68,
+          "end_time": 86.0
+        },
+        {
+          "text": " ",
+          "start_time": 86.0,
+          "end_time": 86.04
+        },
+        {
+          "text": "is",
+          "start_time": 86.04,
+          "end_time": 86.139
+        },
+        {
+          "text": " ",
+          "start_time": 86.139,
+          "end_time": 86.18
+        },
+        {
+          "text": "that",
+          "start_time": 86.18,
+          "end_time": 86.319
+        },
+        {
+          "text": " ",
+          "start_time": 86.319,
+          "end_time": 86.379
+        },
+        {
+          "text": "magnetic",
+          "start_time": 86.379,
+          "end_time": 86.859
+        },
+        {
+          "text": " ",
+          "start_time": 86.859,
+          "end_time": 86.959
+        },
+        {
+          "text": "field",
+          "start_time": 86.959,
+          "end_time": 87.219
+        },
+        {
+          "text": " ",
+          "start_time": 87.219,
+          "end_time": 87.279
+        },
+        {
+          "text": "lines",
+          "start_time": 87.279,
+          "end_time": 87.579
+        },
+        {
+          "text": " ",
+          "start_time": 87.579,
+          "end_time": 87.619
+        },
+        {
+          "text": "can",
+          "start_time": 87.619,
+          "end_time": 87.839
+        },
+        {
+          "text": " ",
+          "start_time": 87.839,
+          "end_time": 87.919
+        },
+        {
+          "text": "never",
+          "start_time": 87.919,
+          "end_time": 88.16
+        },
+        {
+          "text": " ",
+          "start_time": 88.16,
+          "end_time": 88.239
+        },
+        {
+          "text": "cross",
+          "start_time": 88.239,
+          "end_time": 88.519
+        },
+        {
+          "text": " ",
+          "start_time": 88.519,
+          "end_time": 88.54
+        },
+        {
+          "text": "each",
+          "start_time": 88.54,
+          "end_time": 88.699
+        },
+        {
+          "text": " ",
+          "start_time": 88.699,
+          "end_time": 88.739
+        },
+        {
+          "text": "other.",
+          "start_time": 88.739,
+          "end_time": 88.979
+        },
+        {
+          "text": " ",
+          "start_time": 88.979,
+          "end_time": 90.0
+        }
+      ]
+    },
+    {
+      "text": "This is because at any single point, the magnetic field can only have one direction. ",
+      "start_time": 90.0,
+      "end_time": 96.259,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "This",
+          "start_time": 90.0,
+          "end_time": 90.159
+        },
+        {
+          "text": " ",
+          "start_time": 90.159,
+          "end_time": 90.199
+        },
+        {
+          "text": "is",
+          "start_time": 90.199,
+          "end_time": 90.3
+        },
+        {
+          "text": " ",
+          "start_time": 90.3,
+          "end_time": 90.339
+        },
+        {
+          "text": "because",
+          "start_time": 90.339,
+          "end_time": 90.68
+        },
+        {
+          "text": " ",
+          "start_time": 90.68,
+          "end_time": 90.779
+        },
+        {
+          "text": "at",
+          "start_time": 90.779,
+          "end_time": 91.08
+        },
+        {
+          "text": " ",
+          "start_time": 91.08,
+          "end_time": 91.119
+        },
+        {
+          "text": "any",
+          "start_time": 91.119,
+          "end_time": 91.339
+        },
+        {
+          "text": " ",
+          "start_time": 91.339,
+          "end_time": 91.419
+        },
+        {
+          "text": "single",
+          "start_time": 91.419,
+          "end_time": 91.679
+        },
+        {
+          "text": " ",
+          "start_time": 91.679,
+          "end_time": 91.799
+        },
+        {
+          "text": "point,",
+          "start_time": 91.799,
+          "end_time": 92.159
+        },
+        {
+          "text": " ",
+          "start_time": 92.159,
+          "end_time": 92.519
+        },
+        {
+          "text": "the",
+          "start_time": 92.519,
+          "end_time": 92.599
+        },
+        {
+          "text": " ",
+          "start_time": 92.599,
+          "end_time": 92.619
+        },
+        {
+          "text": "magnetic",
+          "start_time": 92.619,
+          "end_time": 93.0
+        },
+        {
+          "text": " ",
+          "start_time": 93.0,
+          "end_time": 93.079
+        },
+        {
+          "text": "field",
+          "start_time": 93.079,
+          "end_time": 93.319
+        },
+        {
+          "text": " ",
+          "start_time": 93.319,
+          "end_time": 93.339
+        },
+        {
+          "text": "can",
+          "start_time": 93.339,
+          "end_time": 93.52
+        },
+        {
+          "text": " ",
+          "start_time": 93.52,
+          "end_time": 93.559
+        },
+        {
+          "text": "only",
+          "start_time": 93.559,
+          "end_time": 93.779
+        },
+        {
+          "text": " ",
+          "start_time": 93.779,
+          "end_time": 93.86
+        },
+        {
+          "text": "have",
+          "start_time": 93.86,
+          "end_time": 94.08
+        },
+        {
+          "text": " ",
+          "start_time": 94.08,
+          "end_time": 94.299
+        },
+        {
+          "text": "one",
+          "start_time": 94.299,
+          "end_time": 94.5
+        },
+        {
+          "text": " ",
+          "start_time": 94.5,
+          "end_time": 94.559
+        },
+        {
+          "text": "direction.",
+          "start_time": 94.559,
+          "end_time": 95.199
+        },
+        {
+          "text": " ",
+          "start_time": 95.199,
+          "end_time": 96.259
+        }
+      ]
+    },
+    {
+      "text": "So, to recap, electric currents create magnetic fields. ",
+      "start_time": 96.259,
+      "end_time": 101.199,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "So,",
+          "start_time": 96.259,
+          "end_time": 96.559
+        },
+        {
+          "text": " ",
+          "start_time": 96.559,
+          "end_time": 96.619
+        },
+        {
+          "text": "to",
+          "start_time": 96.619,
+          "end_time": 96.739
+        },
+        {
+          "text": " ",
+          "start_time": 96.739,
+          "end_time": 96.819
+        },
+        {
+          "text": "recap,",
+          "start_time": 96.819,
+          "end_time": 97.419
+        },
+        {
+          "text": " ",
+          "start_time": 97.419,
+          "end_time": 98.019
+        },
+        {
+          "text": "electric",
+          "start_time": 98.019,
+          "end_time": 98.399
+        },
+        {
+          "text": " ",
+          "start_time": 98.399,
+          "end_time": 98.419
+        },
+        {
+          "text": "currents",
+          "start_time": 98.419,
+          "end_time": 98.819
+        },
+        {
+          "text": " ",
+          "start_time": 98.819,
+          "end_time": 98.86
+        },
+        {
+          "text": "create",
+          "start_time": 98.86,
+          "end_time": 99.099
+        },
+        {
+          "text": " ",
+          "start_time": 99.099,
+          "end_time": 99.139
+        },
+        {
+          "text": "magnetic",
+          "start_time": 99.139,
+          "end_time": 99.559
+        },
+        {
+          "text": " ",
+          "start_time": 99.559,
+          "end_time": 99.619
+        },
+        {
+          "text": "fields.",
+          "start_time": 99.619,
+          "end_time": 100.059
+        },
+        {
+          "text": " ",
+          "start_time": 100.059,
+          "end_time": 101.199
+        }
+      ]
+    },
+    {
+      "text": "We visualize these fields using lines that show direction and strength, emerge from north to south, and never, ever cross.",
+      "start_time": 101.199,
+      "end_time": 109.519,
+      "speaker": {
+        "id": "speaker_0",
+        "name": "Speaker 0"
+      },
+      "words": [
+        {
+          "text": "We",
+          "start_time": 101.199,
+          "end_time": 101.459
+        },
+        {
+          "text": " ",
+          "start_time": 101.459,
+          "end_time": 101.479
+        },
+        {
+          "text": "visualize",
+          "start_time": 101.479,
+          "end_time": 102.019
+        },
+        {
+          "text": " ",
+          "start_time": 102.019,
+          "end_time": 102.019
+        },
+        {
+          "text": "these",
+          "start_time": 102.019,
+          "end_time": 102.219
+        },
+        {
+          "text": " ",
+          "start_time": 102.219,
+          "end_time": 102.279
+        },
+        {
+          "text": "fields",
+          "start_time": 102.279,
+          "end_time": 102.619
+        },
+        {
+          "text": " ",
+          "start_time": 102.619,
+          "end_time": 102.639
+        },
+        {
+          "text": "using",
+          "start_time": 102.639,
+          "end_time": 102.879
+        },
+        {
+          "text": " ",
+          "start_time": 102.879,
+          "end_time": 102.979
+        },
+        {
+          "text": "lines",
+          "start_time": 102.979,
+          "end_time": 103.259
+        },
+        {
+          "text": " ",
+          "start_time": 103.259,
+          "end_time": 103.279
+        },
+        {
+          "text": "that",
+          "start_time": 103.279,
+          "end_time": 103.419
+        },
+        {
+          "text": " ",
+          "start_time": 103.419,
+          "end_time": 103.439
+        },
+        {
+          "text": "show",
+          "start_time": 103.439,
+          "end_time": 103.58
+        },
+        {
+          "text": " ",
+          "start_time": 103.58,
+          "end_time": 103.619
+        },
+        {
+          "text": "direction",
+          "start_time": 103.619,
+          "end_time": 104.239
+        },
+        {
+          "text": " ",
+          "start_time": 104.239,
+          "end_time": 104.259
+        },
+        {
+          "text": "and",
+          "start_time": 104.259,
+          "end_time": 104.339
+        },
+        {
+          "text": " ",
+          "start_time": 104.339,
+          "end_time": 104.399
+        },
+        {
+          "text": "strength,",
+          "start_time": 104.399,
+          "end_time": 104.96
+        },
+        {
+          "text": " ",
+          "start_time": 104.96,
+          "end_time": 105.5
+        },
+        {
+          "text": "emerge",
+          "start_time": 105.5,
+          "end_time": 105.919
+        },
+        {
+          "text": " ",
+          "start_time": 105.919,
+          "end_time": 105.919
+        },
+        {
+          "text": "from",
+          "start_time": 105.919,
+          "end_time": 106.199
+        },
+        {
+          "text": " ",
+          "start_time": 106.199,
+          "end_time": 106.239
+        },
+        {
+          "text": "north",
+          "start_time": 106.239,
+          "end_time": 106.559
+        },
+        {
+          "text": " ",
+          "start_time": 106.559,
+          "end_time": 106.579
+        },
+        {
+          "text": "to",
+          "start_time": 106.579,
+          "end_time": 106.659
+        },
+        {
+          "text": " ",
+          "start_time": 106.659,
+          "end_time": 106.779
+        },
+        {
+          "text": "south,",
+          "start_time": 106.779,
+          "end_time": 107.259
+        },
+        {
+          "text": " ",
+          "start_time": 107.259,
+          "end_time": 107.559
+        },
+        {
+          "text": "and",
+          "start_time": 107.559,
+          "end_time": 107.839
+        },
+        {
+          "text": " ",
+          "start_time": 107.839,
+          "end_time": 107.839
+        },
+        {
+          "text": "never,",
+          "start_time": 107.839,
+          "end_time": 108.399
+        },
+        {
+          "text": " ",
+          "start_time": 108.399,
+          "end_time": 108.759
+        },
+        {
+          "text": "ever",
+          "start_time": 108.759,
+          "end_time": 108.939
+        },
+        {
+          "text": " ",
+          "start_time": 108.939,
+          "end_time": 109.019
+        },
+        {
+          "text": "cross.",
+          "start_time": 109.019,
+          "end_time": 109.519
+        }
+      ]
+    }
+  ]
+}
